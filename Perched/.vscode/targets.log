@@ -1,0 +1,1120 @@
+make all --print-data-base --no-builtin-variables --no-builtin-rules --question
+make: *** No rule to make target 'all'.  Stop.
+ 
+# GNU Make 4.3
+# Built for x86_64-pc-linux-gnu
+# Copyright (C) 1988-2020 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+
+# Make data base, printed on Sun Mar 20 12:12:33 2022
+
+# Variables
+
+# makefile (from 'Makefile', line 43)
+OBJ := obj
+# environment
+GDK_BACKEND = x11
+# environment
+LC_ALL = C
+# environment
+NO_AT_BRIDGE = 1
+# makefile (from 'Makefile', line 42)
+SRC := src
+# makefile (from 'Makefile', line 45)
+SYSTEM := Linux
+# environment
+GTK_RC_FILES = /etc/gtk/gtkrc:/home/miguel/.gtkrc:/home/miguel/.config/gtkrc
+# environment
+SNAP_INSTANCE_KEY = 
+# environment
+TERMINATOR_DBUS_NAME = net.tenshu.Terminator21a9d5db22c73a993ff0b42f64b396873
+# environment
+VSCODE_IPC_HOOK_EXTHOST = /run/user/1000/vscode-ipc-82aec862-5d05-4e12-b368-2b1911ea4020.sock
+# environment
+LC_NAME = es_ES.UTF-8
+# environment
+LC_NUMERIC = es_ES.UTF-8
+# environment
+VSCODE_CWD = /home/miguel/Perched
+# makefile (from 'Makefile', line 46)
+LIBS := -L./irrlicht-1.8.5/lib/Linux -lIrrlicht -lassimp -lglfw -lX11 -lXext -lGL -ldl -Wl,-rpath=lib/ -fsanitize=address,undefined
+# makefile (from 'Makefile', line 36)
+APP := Perched
+# environment
+TERMINATOR_UUID = urn:uuid:b8bf6ddb-9553-445f-8de4-58f5591e4d65
+# environment
+LC_ADDRESS = es_ES.UTF-8
+# default
+MAKE_COMMAND := make
+# environment
+GTK3_MODULES = xapp-gtk3-module
+# automatic
+@D = $(patsubst %/,%,$(dir $@))
+# environment
+SNAP_INSTANCE_NAME = code
+# environment
+GDK_PIXBUF_MODULEDIR = /snap/code/89/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# default
+.VARIABLES := 
+# environment
+PWD = /home/miguel/Perched
+# automatic
+%D = $(patsubst %/,%,$(dir $%))
+# environment
+MAIL = /var/spool/mail/miguel
+# environment
+XDG_DATA_DIRS = /home/miguel/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+# environment
+OLDPWD = /home/miguel
+# automatic
+^D = $(patsubst %/,%,$(dir $^))
+# environment
+VSCODE_LOG_STACK = false
+# automatic
+%F = $(notdir $%)
+# environment
+VSCODE_CODE_CACHE_PATH = /home/miguel/.config/Code/CachedData/b5205cc8eb4fbaa726835538cd82372cc0222d43
+# environment
+XDG_SESSION_PATH = /org/freedesktop/DisplayManager/Session1
+# environment
+LANG = C
+# environment
+XAUTHORITY = /home/miguel/.Xauthority
+# default
+.LOADED := 
+# default
+.INCLUDE_DIRS = /usr/include /usr/local/include /usr/include
+# makefile (from 'Makefile', line 18)
+C2O = $(patsubst %.c,%.o,$(patsubst %.cpp,%.o,$(patsubst $(SRC)%, $(OBJ)%, $(1))))
+# makefile
+MAKEFLAGS = pqrR
+# environment
+TERMINATOR_DBUS_PATH = /net/tenshu/Terminator2
+# makefile
+CURDIR := /home/miguel/Perched
+# environment
+VSCODE_PIPE_LOGGING = true
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+# automatic
+*D = $(patsubst %/,%,$(dir $*))
+# environment
+PAM_KWALLET5_LOGIN = /run/user/1000/kwallet5.socket
+# environment
+MFLAGS = -pqrR
+# default
+.SHELLFLAGS := -c
+# environment
+QT_LINUX_ACCESSIBILITY_ALWAYS_ON = 1
+# environment
+XDG_CONFIG_DIRS = /home/miguel/.config/kdedefaults:/etc/xdg
+# automatic
++D = $(patsubst %/,%,$(dir $+))
+# environment
+XCURSOR_THEME = breeze_cursors
+# environment
+XDG_SESSION_DESKTOP = KDE
+# makefile (from 'Makefile', line 1)
+MAKEFILE_LIST := Makefile
+# environment
+SNAP_REEXEC = 
+# automatic
+@F = $(notdir $@)
+# environment
+VSCODE_VERBOSE_LOGGING = true
+# environment
+VSCODE_PID = 24759
+# makefile (from 'Makefile', line 57)
+ALLCPPS := src/Motor3D/Motor3DLUM/Shaders/Shader.cpp src/Motor3D/Motor3DLUM/MaterialLUM.cpp src/Motor3D/Motor3DLUM/Motor3DLUM.cpp src/Motor3D/Motor3DLUM/Resources/ResourceManager.cpp src/Motor3D/Motor3DLUM/ModelLUM.cpp src/Motor3D/Motor3DLUM/Shape.cpp src/Motor3D/Motor3DLUM/CameraLUM.cpp src/Motor3D/Motor3DLUM/NodeLUM.cpp src/Motor3D/Motor3DLUM/LightLUM.cpp src/Motor3D/Motor3DLUM/MeshLUM.cpp src/Motor3D/Vector3d.cpp src/MotorSonido/MotorSonido.cpp src/man/entitymanager.cpp src/man/game.cpp src/glm/detail/glm.cpp src/main.cpp src/util/keyboard.cpp src/util/gameobjectfactory.cpp src/util/fmod/common_platform.cpp src/util/fmod/common.cpp src/util/path/pathA.cpp src/util/path/pathP.cpp src/util/navMesh/NavMesh.cpp src/util/navMesh/Triangle.cpp src/util/stbe/Steering.cpp src/sys/render.cpp src/sys/follow.cpp src/sys/ia.cpp src/sys/stamina.cpp src/sys/camera.cpp src/sys/text.cpp src/sys/input.cpp src/sys/colission.cpp src/sys/sound.cpp src/sys/spawn.cpp src/sys/physics.cpp src/sys/health.cpp src/sys/blackboard.cpp src/open.cpp
+# environment
+XDG_SESSION_TYPE = x11
+# automatic
+?D = $(patsubst %/,%,$(dir $?))
+# makefile (from 'Makefile', line 54)
+CCFLAGS := -Wall -pedantic -I./irrlicht-1.8.5/include -fsanitize=address -I./fmod/fmod/core/inc -I./fmod/fmod/studio/inc -I./fmod/fmod/fsbank/inc -O3 -ffast-math
+# makefile (from 'Makefile', line 61)
+OBJSUBDIRS :=  obj  obj/Motor3D  obj/Motor3D/Motor3DLUM  obj/Motor3D/Motor3DLUM/Shaders  obj/Motor3D/Motor3DLUM/Resources  obj/cmp  obj/MotorSonido  obj/man  obj/glm  obj/glm/simd  obj/glm/ext  obj/glm/gtc  obj/glm/gtx  obj/glm/detail  obj/stb  obj/glad  obj/util  obj/util/gob  obj/util/bt  obj/util/fmod  obj/util/path  obj/util/navMesh  obj/util/stbe  obj/sys  obj/picoJSON
+# environment
+SESSION_MANAGER = local/miguel-gl62mvr7rfx:@/tmp/.ICE-unix/1984,unix/miguel-gl62mvr7rfx:/tmp/.ICE-unix/1984
+# automatic
+*F = $(notdir $*)
+# makefile (from 'Makefile', line 59)
+ALLOBJ := obj/Motor3D/Motor3DLUM/Shaders/Shader.o obj/Motor3D/Motor3DLUM/MaterialLUM.o obj/Motor3D/Motor3DLUM/Motor3DLUM.o obj/Motor3D/Motor3DLUM/Resources/ResourceManager.o obj/Motor3D/Motor3DLUM/ModelLUM.o obj/Motor3D/Motor3DLUM/Shape.o obj/Motor3D/Motor3DLUM/CameraLUM.o obj/Motor3D/Motor3DLUM/NodeLUM.o obj/Motor3D/Motor3DLUM/LightLUM.o obj/Motor3D/Motor3DLUM/MeshLUM.o obj/Motor3D/Vector3d.o obj/MotorSonido/MotorSonido.o obj/man/entitymanager.o obj/man/game.o obj/glm/detail/glm.o obj/main.o obj/util/keyboard.o obj/util/gameobjectfactory.o obj/util/fmod/common_platform.o obj/util/fmod/common.o obj/util/path/pathA.o obj/util/path/pathP.o obj/util/navMesh/NavMesh.o obj/util/navMesh/Triangle.o obj/util/stbe/Steering.o obj/sys/render.o obj/sys/follow.o obj/sys/ia.o obj/sys/stamina.o obj/sys/camera.o obj/sys/text.o obj/sys/input.o obj/sys/colission.o obj/sys/sound.o obj/sys/spawn.o obj/sys/physics.o obj/sys/health.o obj/sys/blackboard.o obj/open.o obj/glad/glad.o
+# environment
+CHROME_DESKTOP = code-url-handler.desktop
+# environment
+DBUS_SESSION_BUS_ADDRESS = unix:path=/run/user/1000/bus
+# makefile (from 'Makefile', line 49)
+LIBPATH := -Wl,-rpath=lib/
+# automatic
+<D = $(patsubst %/,%,$(dir $<))
+# environment
+CPCT_PATH = /home/miguel/Documentos/CPCetelera/cpctelera/cpctelera
+# environment
+VSCODE_NLS_CONFIG = {"locale":"es","availableLanguages":{},"_languagePackSupport":true}
+# default
+MAKE_HOST := x86_64-pc-linux-gnu
+# makefile
+SHELL = /bin/sh
+# default
+MAKECMDGOALS := all
+# environment
+SHLVL = 2
+# environment
+MAKELEVEL := 0
+# makefile (from 'Makefile', line 41)
+MKDIR := mkdir -p
+# default
+MAKE = $(MAKE_COMMAND)
+# environment
+SNAP_COOKIE = PJ7YD_WsNnc3mKraT514AuC4OYgHJ6Crql6XuY-q49o3JSsZ34YT
+# environment
+PATH = /home/miguel/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/var/lib/snapd/snap/bin:/home/miguel/Documentos/CPCetelera/cpctelera/cpctelera/tools/scripts
+# default
+MAKEFILES := 
+# environment
+LANGUAGE = 
+# environment
+LC_MONETARY = es_ES.UTF-8
+# environment
+MOTD_SHOWN = pam
+# automatic
+^F = $(notdir $^)
+# environment
+SNAP_USER_COMMON = /home/miguel/snap/code/common
+# environment
+LC_TIME = es_ES.UTF-8
+# environment
+SNAP = /snap/code/89
+# environment
+SNAP_REVISION = 89
+# environment
+SNAP_REAL_HOME = /home/miguel
+# environment
+VSCODE_LOG_NATIVE = false
+# makefile (from 'Makefile', line 34)
+FmodHome := ./fmod
+# environment
+LC_TELEPHONE = es_ES.UTF-8
+# automatic
+?F = $(notdir $?)
+# environment
+KDE_APPLICATIONS_AS_SCOPE = 1
+# environment
+XDG_SEAT = seat0
+# environment
+XDG_CURRENT_DESKTOP = KDE
+# environment
+LS_COLORS = rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=01;05;37;41:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.pdf=00;32:*.ps=00;32:*.txt=00;32:*.patch=00;32:*.diff=00;32:*.log=00;32:*.tex=00;32:*.doc=00;32:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.axa=00;36:*.oga=00;36:*.spx=00;36:*.xspf=00;36:
+# automatic
++F = $(notdir $+)
+# environment
+XDG_SEAT_PATH = /org/freedesktop/DisplayManager/Seat0
+# environment
+DESKTOP_SESSION = plasma
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = KDE
+# 'override' directive
+GNUMAKEFLAGS := 
+# environment
+LOGNAME = miguel
+# environment
+SNAP_ARCH = amd64
+# environment
+XDG_VTNR = 1
+# makefile
+.DEFAULT_GOAL := Perched
+# environment
+SYSTEMD_EXEC_PID = 1840
+# makefile (from 'Makefile', line 25)
+C2H = $(patsubst %.c,%.h,$(patsubst %.cpp,%.hpp,$(1)))
+# environment
+DISPLAY = :0
+# environment
+GTK_MODULES = canberra-gtk-module
+# environment
+USER = miguel
+# default
+MAKE_VERSION := 4.3
+# environment
+KDE_SESSION_UID = 1000
+# 'override' directive
+.SHELLSTATUS := 0
+# environment
+DISABLE_WAYLAND = 1
+# environment
+SNAP_DATA = /var/snap/code/89
+# environment
+SNAP_CONTEXT = PJ7YD_WsNnc3mKraT514AuC4OYgHJ6Crql6XuY-q49o3JSsZ34YT
+# environment
+LC_MEASUREMENT = es_ES.UTF-8
+# makefile (from 'Makefile', line 10)
+define COMPILE
+$(2) : $(3) $(4)
+	$(1) -c -o $(2) -g -c $(3) $(5) -std=c++20
+endef
+# environment
+_ = /usr/bin/make
+# environment
+LC_PAPER = es_ES.UTF-8
+# environment
+XDG_RUNTIME_DIR = /run/user/1000
+# makefile (from 'Makefile', line 60)
+SUBDIRS := src src/Motor3D src/Motor3D/Motor3DLUM src/Motor3D/Motor3DLUM/Shaders src/Motor3D/Motor3DLUM/Resources src/cmp src/MotorSonido src/man src/glm src/glm/simd src/glm/ext src/glm/gtc src/glm/gtx src/glm/detail src/stb src/glad src/util src/util/gob src/util/bt src/util/fmod src/util/path src/util/navMesh src/util/stbe src/sys src/picoJSON
+# environment
+COLORTERM = truecolor
+# environment
+GDK_PIXBUF_MODULE_FILE = /home/miguel/snap/code/common/.cache/gdk-pixbuf-loaders.cache
+# makefile (from 'Makefile', line 47)
+LIB_FMOD := -L./fmod/fmod/core/lib/x86_64 -L./fmod/fmod/studio/lib/x86_64 -lfmod -lfmodstudio -lGL -lm -lpthread -ldl -lrt -lX11
+# makefile (from 'Makefile', line 40)
+C := gcc
+# environment
+XDG_SESSION_CLASS = user
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# environment
+GTK2_RC_FILES = /etc/gtk-2.0/gtkrc:/home/miguel/.gtkrc-2.0:/home/miguel/.config/gtkrc-2.0
+# environment
+HOME = /home/miguel
+# makefile (from 'Makefile', line 58)
+ALLCS := src/glad/glad.c
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# environment
+VSCODE_IPC_HOOK = /run/user/1000/vscode-cfe45e27-1.65.0-main.sock
+# environment
+TERM = xterm-256color
+# environment
+SNAP_NAME = code
+# environment
+GSETTINGS_SCHEMA_DIR = /snap/code/89/usr/share/glib-2.0/schemas
+# environment
+XDG_SESSION_ID = 2
+# environment
+XCURSOR_SIZE = 24
+# default
+.RECIPEPREFIX := 
+# automatic
+<F = $(notdir $<)
+# environment
+SNAP_VERSION = b5205cc8
+# default
+SUFFIXES := 
+# environment
+QT_AUTO_SCREEN_SCALE_FACTOR = 0
+# environment
+VSCODE_CLI = 1
+# environment
+ELECTRON_NO_ATTACH_CONSOLE = 1
+# environment
+VTE_VERSION = 6602
+# environment
+SNAP_COMMON = /var/snap/code/common
+# environment
+KDE_SESSION_VERSION = 5
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync check-symlink guile load
+# makefile (from 'Makefile', line 39)
+CC := ccache g++
+# makefile (from 'Makefile', line 33)
+IrrlichtHome := ./irrlicht-1.8.5
+# environment
+KDE_FULL_SESSION = true
+# environment
+SNAP_USER_DATA = /home/miguel/snap/code/89
+# environment
+LC_IDENTIFICATION = es_ES.UTF-8
+# environment
+SNAP_LIBRARY_PATH = /var/lib/snapd/lib/gl:/var/lib/snapd/lib/gl32:/var/lib/snapd/void
+# variable set hash-table stats:
+# Load=158/1024=15%, Rehash=0, Collisions=184/786=23%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# . (device 2065, inode 9438314): 16 files, no impossibilities.
+
+# 16 files, no impossibilities in 1 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+obj/util/fmod:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 89):
+	$(MKDIR) $(OBJSUBDIRS)
+
+# Not a target:
+src/Motor3D/Vector3d.cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+src/glad/glad.c:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+obj/cmp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+ 
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 89):
+	$(MKDIR) $(OBJSUBDIRS)
+
+# Not a target:
+src/util/path/pathA.cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+src/util/fmod/common.cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+src/glm/detail/glm.cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+src/sys/stamina.cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+obj/util/stbe:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 89):
+	$(MKDIR) $(OBJSUBDIRS)
+
+obj/sys/text.o: src/sys/text.cpp
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 72):
+	ccache g++ -c -o obj/sys/text.o -g -c src/sys/text.cpp  -std=c++20
+
+obj/main.o: src/main.cpp
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 72):
+	ccache g++ -c -o obj/main.o -g -c src/main.cpp  -std=c++20
+
+# Not a target:
+src/util/navMesh/NavMesh.cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+obj/util/navMesh:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 89):
+	$(MKDIR) $(OBJSUBDIRS)
+
+obj/util/keyboard.o: src/util/keyboard.cpp
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 72):
+	ccache g++ -c -o obj/util/keyboard.o -g -c src/util/keyboard.cpp  -std=c++20
+
+obj/util/path/pathA.o: src/util/path/pathA.cpp
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 72):
+	ccache g++ -c -o obj/util/path/pathA.o -g -c src/util/path/pathA.cpp  -std=c++20
+
+# Not a target:
+src/sys/blackboard.cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+obj/stb:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 89):
+	$(MKDIR) $(OBJSUBDIRS)
+
+obj/sys/blackboard.o: src/sys/blackboard.cpp
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 72):
+	ccache g++ -c -o obj/sys/blackboard.o -g -c src/sys/blackboard.cpp  -std=c++20
+
+obj/MotorSonido:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 89):
+	$(MKDIR) $(OBJSUBDIRS)
+
+obj/picoJSON:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 89):
+	$(MKDIR) $(OBJSUBDIRS)
+
+# Not a target:
+src/Motor3D/Motor3DLUM/CameraLUM.cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+obj/glm/gtc:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 89):
+	$(MKDIR) $(OBJSUBDIRS)
+
+# Not a target:
+Makefile:
+#  Implicit rule search has been done.
+#  Last modified 2022-03-20 12:00:47.793336895
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+src/sys/render.cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+src/Motor3D/Motor3DLUM/ModelLUM.cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+obj/glm/gtx:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 89):
+	$(MKDIR) $(OBJSUBDIRS)
+
+obj/Motor3D/Motor3DLUM/MaterialLUM.o: src/Motor3D/Motor3DLUM/MaterialLUM.cpp
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 72):
+	ccache g++ -c -o obj/Motor3D/Motor3DLUM/MaterialLUM.o -g -c src/Motor3D/Motor3DLUM/MaterialLUM.cpp  -std=c++20
+
+obj/man/game.o: src/man/game.cpp
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 72):
+	ccache g++ -c -o obj/man/game.o -g -c src/man/game.cpp  -std=c++20
+
+obj/sys/health.o: src/sys/health.cpp
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 72):
+	ccache g++ -c -o obj/sys/health.o -g -c src/sys/health.cpp  -std=c++20
+
+obj/util/path/pathP.o: src/util/path/pathP.cpp
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 72):
+	ccache g++ -c -o obj/util/path/pathP.o -g -c src/util/path/pathP.cpp  -std=c++20
+
+# Not a target:
+src/Motor3D/Motor3DLUM/Shape.cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+obj/glm/ext:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 89):
+	$(MKDIR) $(OBJSUBDIRS)
+
+# Not a target:
+src/main.cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+obj/Motor3D/Motor3DLUM:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 89):
+	$(MKDIR) $(OBJSUBDIRS)
+
+obj/sys/stamina.o: src/sys/stamina.cpp
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 72):
+	ccache g++ -c -o obj/sys/stamina.o -g -c src/sys/stamina.cpp  -std=c++20
+
+# Not a target:
+src/util/path/pathP.cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+src/man/game.cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+src/util/gameobjectfactory.cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+clean:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 86):
+	$(RM) $(ALLOBJ)
+
+obj/sys/follow.o: src/sys/follow.cpp
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 72):
+	ccache g++ -c -o obj/sys/follow.o -g -c src/sys/follow.cpp  -std=c++20
+
+obj/Motor3D/Vector3d.o: src/Motor3D/Vector3d.cpp
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 72):
+	ccache g++ -c -o obj/Motor3D/Vector3d.o -g -c src/Motor3D/Vector3d.cpp  -std=c++20
+
+obj/glm/detail:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 89):
+	$(MKDIR) $(OBJSUBDIRS)
+
+info:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 78):
+	$(info $(SUBDIRS))
+	$(info $(OBJSUBDIRS))
+	$(info $(ALLCPPS))
+	$(info $(ALLCS))
+	$(info $(ALLCSOBJ))
+	$(info $(ALLCPPSOBJ))
+
+# Not a target:
+src/sys/follow.cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+obj/glm/detail/glm.o: src/glm/detail/glm.cpp
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 72):
+	ccache g++ -c -o obj/glm/detail/glm.o -g -c src/glm/detail/glm.cpp  -std=c++20
+
+obj/sys/ia.o: src/sys/ia.cpp
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 72):
+	ccache g++ -c -o obj/sys/ia.o -g -c src/sys/ia.cpp  -std=c++20
+
+# Not a target:
+src/Motor3D/Motor3DLUM/Shaders/Shader.cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+obj:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 89):
+	$(MKDIR) $(OBJSUBDIRS)
+
+obj/Motor3D/Motor3DLUM/Resources:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 89):
+	$(MKDIR) $(OBJSUBDIRS)
+
+# Not a target:
+src/sys/physics.cpp:
+#  Implicit rule search has not been done.
+ 
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+src/util/keyboard.cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+obj/MotorSonido/MotorSonido.o: src/MotorSonido/MotorSonido.cpp
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 72):
+	ccache g++ -c -o obj/MotorSonido/MotorSonido.o -g -c src/MotorSonido/MotorSonido.cpp  -std=c++20
+
+obj/Motor3D/Motor3DLUM/ModelLUM.o: src/Motor3D/Motor3DLUM/ModelLUM.cpp
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 72):
+	ccache g++ -c -o obj/Motor3D/Motor3DLUM/ModelLUM.o -g -c src/Motor3D/Motor3DLUM/ModelLUM.cpp  -std=c++20
+
+obj/sys/sound.o: src/sys/sound.cpp
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 72):
+	ccache g++ -c -o obj/sys/sound.o -g -c src/sys/sound.cpp  -std=c++20
+
+obj/util/gameobjectfactory.o: src/util/gameobjectfactory.cpp
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 72):
+	ccache g++ -c -o obj/util/gameobjectfactory.o -g -c src/util/gameobjectfactory.cpp  -std=c++20
+
+obj/util/bt:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 89):
+	$(MKDIR) $(OBJSUBDIRS)
+
+# Not a target:
+src/util/fmod/common_platform.cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+src/sys/camera.cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+src/Motor3D/Motor3DLUM/LightLUM.cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+src/sys/health.cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+obj/Motor3D/Motor3DLUM/Motor3DLUM.o: src/Motor3D/Motor3DLUM/Motor3DLUM.cpp
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 72):
+	ccache g++ -c -o obj/Motor3D/Motor3DLUM/Motor3DLUM.o -g -c src/Motor3D/Motor3DLUM/Motor3DLUM.cpp  -std=c++20
+
+obj/util/fmod/common_platform.o: src/util/fmod/common_platform.cpp
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 72):
+	ccache g++ -c -o obj/util/fmod/common_platform.o -g -c src/util/fmod/common_platform.cpp  -std=c++20
+
+obj/util/navMesh/NavMesh.o: src/util/navMesh/NavMesh.cpp
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 72):
+	ccache g++ -c -o obj/util/navMesh/NavMesh.o -g -c src/util/navMesh/NavMesh.cpp  -std=c++20
+
+# Not a target:
+src/sys/ia.cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+src/sys/colission.cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+obj/glm/simd:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 89):
+	$(MKDIR) $(OBJSUBDIRS)
+
+# Not a target:
+src/util/navMesh/Triangle.cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+obj/sys/input.o: src/sys/input.cpp
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 72):
+	ccache g++ -c -o obj/sys/input.o -g -c src/sys/input.cpp  -std=c++20
+
+# Not a target:
+all:
+#  Command line target.
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has not been updated.
+
+obj/Motor3D/Motor3DLUM/CameraLUM.o: src/Motor3D/Motor3DLUM/CameraLUM.cpp
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 72):
+	ccache g++ -c -o obj/Motor3D/Motor3DLUM/CameraLUM.o -g -c src/Motor3D/Motor3DLUM/CameraLUM.cpp  -std=c++20
+
+obj/Motor3D/Motor3DLUM/NodeLUM.o: src/Motor3D/Motor3DLUM/NodeLUM.cpp
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 72):
+	ccache g++ -c -o obj/Motor3D/Motor3DLUM/NodeLUM.o -g -c src/Motor3D/Motor3DLUM/NodeLUM.cpp  -std=c++20
+
+obj/util/gob:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 89):
+	$(MKDIR) $(OBJSUBDIRS)
+
+obj/Motor3D/Motor3DLUM/MeshLUM.o: src/Motor3D/Motor3DLUM/MeshLUM.cpp
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 72):
+	ccache g++ -c -o obj/Motor3D/Motor3DLUM/MeshLUM.o -g -c src/Motor3D/Motor3DLUM/MeshLUM.cpp  -std=c++20
+
+obj/sys/camera.o: src/sys/camera.cpp
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 72):
+	ccache g++ -c -o obj/sys/camera.o -g -c src/sys/camera.cpp  -std=c++20
+
+# Not a target:
+src/open.cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+src/Motor3D/Motor3DLUM/NodeLUM.cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+obj/man/entitymanager.o: src/man/entitymanager.cpp
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 72):
+	ccache g++ -c -o obj/man/entitymanager.o -g -c src/man/entitymanager.cpp  -std=c++20
+
+obj/Motor3D/Motor3DLUM/Shaders/Shader.o: src/Motor3D/Motor3DLUM/Shaders/Shader.cpp
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 72):
+	ccache g++ -c -o obj/Motor3D/Motor3DLUM/Shaders/Shader.o -g -c src/Motor3D/Motor3DLUM/Shaders/Shader.cpp  -std=c++20
+
+# Not a target:
+src/Motor3D/Motor3DLUM/Resources/ResourceManager.cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+src/util/stbe/Steering.cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+obj/util/path:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 89):
+	$(MKDIR) $(OBJSUBDIRS)
+
+obj/util/fmod/common.o: src/util/fmod/common.cpp
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 72):
+	ccache g++ -c -o obj/util/fmod/common.o -g -c src/util/fmod/common.cpp  -std=c++20
+
+# Not a target:
+src/Motor3D/Motor3DLUM/Motor3DLUM.cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+obj/man:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 89):
+	$(MKDIR) $(OBJSUBDIRS)
+
+obj/util/navMesh/Triangle.o: src/util/navMesh/Triangle.cpp
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 72):
+	ccache g++ -c -o obj/util/navMesh/Triangle.o -g -c src/util/navMesh/Triangle.cpp  -std=c++20
+
+obj/sys:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 89):
+	$(MKDIR) $(OBJSUBDIRS)
+
+# Not a target:
+src/MotorSonido/MotorSonido.cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+obj/Motor3D:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 89):
+	$(MKDIR) $(OBJSUBDIRS)
+
+obj/open.o: src/open.cpp
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 72):
+	ccache g++ -c -o obj/open.o -g -c src/open.cpp  -std=c++20
+
+obj/Motor3D/Motor3DLUM/Shape.o: src/Motor3D/Motor3DLUM/Shape.cpp
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 72):
+	ccache g++ -c -o obj/Motor3D/Motor3DLUM/Shape.o -g -c src/Motor3D/Motor3DLUM/Shape.cpp  -std=c++20
+
+# Not a target:
+src/man/entitymanager.cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+obj/sys/colission.o: src/sys/colission.cpp
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 72):
+	ccache g++ -c -o obj/sys/colission.o -g -c src/sys/colission.cpp  -std=c++20
+
+# Not a target:
+src/sys/text.cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+obj/Motor3D/Motor3DLUM/Shaders:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+ 
+#  recipe to execute (from 'Makefile', line 89):
+	$(MKDIR) $(OBJSUBDIRS)
+
+# Not a target:
+src/sys/spawn.cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+src/sys/input.cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+obj/util/stbe/Steering.o: src/util/stbe/Steering.cpp
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 72):
+	ccache g++ -c -o obj/util/stbe/Steering.o -g -c src/util/stbe/Steering.cpp  -std=c++20
+
+obj/util:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 89):
+	$(MKDIR) $(OBJSUBDIRS)
+
+obj/sys/physics.o: src/sys/physics.cpp
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 72):
+	ccache g++ -c -o obj/sys/physics.o -g -c src/sys/physics.cpp  -std=c++20
+
+# Not a target:
+src/Motor3D/Motor3DLUM/MeshLUM.cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+src/Motor3D/Motor3DLUM/MaterialLUM.cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+obj/glad/glad.o: src/glad/glad.c
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 73):
+	gcc -c -o obj/glad/glad.o -g -c src/glad/glad.c  -std=c++20
+
+obj/Motor3D/Motor3DLUM/LightLUM.o: src/Motor3D/Motor3DLUM/LightLUM.cpp
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 72):
+	ccache g++ -c -o obj/Motor3D/Motor3DLUM/LightLUM.o -g -c src/Motor3D/Motor3DLUM/LightLUM.cpp  -std=c++20
+
+# Not a target:
+src/sys/sound.cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+obj/sys/render.o: src/sys/render.cpp
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 72):
+	ccache g++ -c -o obj/sys/render.o -g -c src/sys/render.cpp  -std=c++20
+
+obj/glm:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 89):
+	$(MKDIR) $(OBJSUBDIRS)
+
+.PHONY: info clean
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+obj/Motor3D/Motor3DLUM/Resources/ResourceManager.o: src/Motor3D/Motor3DLUM/Resources/ResourceManager.cpp
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 72):
+	ccache g++ -c -o obj/Motor3D/Motor3DLUM/Resources/ResourceManager.o -g -c src/Motor3D/Motor3DLUM/Resources/ResourceManager.cpp  -std=c++20
+
+obj/sys/spawn.o: src/sys/spawn.cpp
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 72):
+	ccache g++ -c -o obj/sys/spawn.o -g -c src/sys/spawn.cpp  -std=c++20
+
+Perched: obj obj/Motor3D obj/Motor3D/Motor3DLUM obj/Motor3D/Motor3DLUM/Shaders obj/Motor3D/Motor3DLUM/Resources obj/cmp obj/MotorSonido obj/man obj/glm obj/glm/simd obj/glm/ext obj/glm/gtc obj/glm/gtx obj/glm/detail obj/stb obj/glad obj/util obj/util/gob obj/util/bt obj/util/fmod obj/util/path obj/util/navMesh obj/util/stbe obj/sys obj/picoJSON obj/Motor3D/Motor3DLUM/Shaders/Shader.o obj/Motor3D/Motor3DLUM/MaterialLUM.o obj/Motor3D/Motor3DLUM/Motor3DLUM.o obj/Motor3D/Motor3DLUM/Resources/ResourceManager.o obj/Motor3D/Motor3DLUM/ModelLUM.o obj/Motor3D/Motor3DLUM/Shape.o obj/Motor3D/Motor3DLUM/CameraLUM.o obj/Motor3D/Motor3DLUM/NodeLUM.o obj/Motor3D/Motor3DLUM/LightLUM.o obj/Motor3D/Motor3DLUM/MeshLUM.o obj/Motor3D/Vector3d.o obj/MotorSonido/MotorSonido.o obj/man/entitymanager.o obj/man/game.o obj/glm/detail/glm.o obj/main.o obj/util/keyboard.o obj/util/gameobjectfactory.o obj/util/fmod/common_platform.o obj/util/fmod/common.o obj/util/path/pathA.o obj/util/path/pathP.o obj/util/navMesh/NavMesh.o obj/util/navMesh/Triangle.o obj/util/stbe/Steering.o obj/sys/render.o obj/sys/follow.o obj/sys/ia.o obj/sys/stamina.o obj/sys/camera.o obj/sys/text.o obj/sys/input.o obj/sys/colission.o obj/sys/sound.o obj/sys/spawn.o obj/sys/physics.o obj/sys/health.o obj/sys/blackboard.o obj/open.o obj/glad/glad.o
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 69):
+	$(CC) -o $(APP) $(ALLOBJ) $(LIBS) $(LIB_FMOD) $(LIBPATH)
+
+obj/glad:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 89):
+	$(MKDIR) $(OBJSUBDIRS)
+
+# files hash-table stats:
+# Load=113/1024=11%, Rehash=0, Collisions=21/298=7%
+# VPATH Search Paths
+
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 1 (0) / strings = 128 / storage = 2527 B / avg = 19 B
+# current buf: size = 8162 B / used = 2527 B / count = 128 / avg = 19 B
+
+# strcache performance: lookups = 272 / hit rate = 52%
+# hash-table stats:
+# Load=128/8192=2%, Rehash=0, Collisions=3/272=1%
+# Finished Make data base on Sun Mar 20 12:12:33 2022
+
+ 

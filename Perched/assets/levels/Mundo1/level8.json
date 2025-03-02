@@ -1,0 +1,294 @@
+{
+    "player": [{
+        "health": { "health": 3, "maxHealth": 3 },
+        "physics": { "x": 156, "y":  24, "z": 0, "zini": 0, "zvuelta": 0 },
+        "input": {
+            "disx1BraD": 6, "disx2BraD": 4, "disy1BraD": 4, "disy2BraD": 8, "disy3BraD": -2, "disy4BraD": 0,
+            "disx1BraI": -6, "disx2BraI": -4, "disy1BraI": 4, "disy2BraI": 8, "disy3BraI": -2, "disy4BraI": 0,
+            "disx1PieD": 6, "disx2PieD": 4, "disy1PieD": -4, "disy2PieD": 0, "disy3PieD": -6,
+            "disx1PieI": -6, "disx2PieI": -4, "disy1PieI": -4, "disy2PieI": 0, "disy3PieI": -6,
+            "disyCab": 5, "disxCabDL": -1, "disxCabDR": 1, "disxCabU": 0, "disxCabUL": -2, "disxCabUR": 2
+        },
+        "render": { "size": 12, "malla": "assets/modelados/zacaris/zarismooth.obj" },
+        "stamina": { "maxStamina": 800, "cantStamina": 800 }
+    }],
+    "enemies": [
+        {"ia": { "type": "cabra"},
+         "physics": { "x": 288, "y": 318, "z":  0, "zini": 0, "zvuelta": 250},
+         "vision": { "xneg": 70, "xpos": 70, "yneg": 70, "ypos": 70, "zneg": 70, "zpos": 70},
+         "health": { "health": 4, "maxHealth": 4, "damageInflicted": 1, "selfDamageOnInfliction": 0},
+         "render": { "malla": "assets/modelados/cabra/cabrabuena.obj", "w": 24, "h": 24, "d": 24 },
+         "collider": { "subirbajar": 0, "numaranya": -1 }},
+
+        {"ia": { "type": "aranya"},
+            "physics": { "x": 222, "y": 276, "z": 580, "zini": 580, "zvuelta": 0},
+            "vision": { "xneg": 70, "xpos": 70, "yneg": 70, "ypos": 70, "zneg": 70, "zpos": 70},
+            "health": { "health": 4, "maxHealth": 4, "damageInflicted": 1, "selfDamageOnInfliction": 0},
+            "render": { "malla": "assets/modelados/aranya/aranya.obj", "w": 24, "h": 12, "d": 12 },
+            "collider": { "subirbajar": 1, "numaranya": 1 }},
+        {"ia": { "type": "aranya"},
+            "physics": { "x":  96, "y": 402, "z": 580, "zini": 580, "zvuelta": 0},
+            "vision": { "xneg": 70, "xpos": 70, "yneg": 70, "ypos": 70, "zneg": 70, "zpos": 70},
+            "health": { "health": 4, "maxHealth": 4, "damageInflicted": 1, "selfDamageOnInfliction": 0},
+            "render": { "malla": "assets/modelados/aranya/aranya.obj", "w": 24, "h": 12, "d": 12 },
+            "collider": { "subirbajar": 1, "numaranya": 2 }}
+    ],
+    "plano": [
+        {"physics": { "x": 168, "y": 360, "z": -12, "roty": 0, "zini": -12, "zvuelta": 500 },
+        "render": { "malla": "assets/levels/Mundo1/level8/plano8.obj", "w": 312, "h": 950 },
+        "partes": [
+            {"w":  24, "h": 1440, "d": 80, "disX": -138, "disY":    0},
+            {"w":  24, "h": 1440, "d": 80, "disX":  126, "disY":    0},
+            {"w": 312, "h":   24, "d": 80, "disX":    0, "disY": -360}
+        ]}
+    ],
+    "salientes": [
+        {"physics": { "x": 168, "y": -15, "z": -5, "roty": 0, "zini": -5, "zvuelta": 500 },
+        "render": { "malla": "assets/levels/Mundo1/inifin.obj" },
+        "collider": { "subirbajar": 0 },
+        "partes": [
+            {"w":  96, "h":  24, "d": 200, "disX":  30, "disY": -42, "lanzadorrocas": false},
+            {"w": 132, "h":  24, "d": 200, "disX":  18, "disY": -24, "lanzadorrocas": false},
+            {"w": 144, "h":  12, "d": 200, "disX":   6, "disY": -12, "lanzadorrocas": false},
+            {"w": 180, "h":  48, "d": 200, "disX": -12, "disY":  18, "lanzadorrocas": false}
+        ]},
+        {"physics": { "x": 264, "y":  168, "z": -10, "roty": 0, "zini": -10, "zvuelta": 500 },
+        "render": { "malla": "assets/levels/Mundo1/level8/sali8uno.obj" },
+        "collider": { "subirbajar": 0 },
+        "partes": [
+            {"w": 114, "h": 120, "d": 200, "disX":  -12, "disY":  -60, "lanzadorrocas": false},
+            {"w":  60, "h": 132, "d": 200, "disX":   21, "disY":   72, "lanzadorrocas": false}
+        ]},
+        {"physics": { "x":  84, "y": 282, "z": -10, "roty": 0, "zini": -10, "zvuelta": 500 },
+        "render": { "malla": "assets/levels/Mundo1/level8/sali8dos.obj" },
+        "collider": { "subirbajar": 0 },
+        "partes": [
+            {"w":  84, "h":  60, "d": 200, "disX":  -15, "disY": -132, "lanzadorrocas": false},
+            {"w": 108, "h":  72, "d": 200, "disX":   -3, "disY":  -84, "lanzadorrocas": false},
+            {"w": 156, "h":  54, "d": 200, "disX":   24, "disY":  -39, "lanzadorrocas": false},
+            {"w":  24, "h": 132, "d": 200, "disX":  -66, "disY":   48, "lanzadorrocas": false},
+            {"w":  36, "h": 132, "d": 200, "disX":   84, "disY":   48, "lanzadorrocas": false},
+            {"w": 162, "h":  72, "d": 200, "disX":   12, "disY":  108, "lanzadorrocas": false}
+        ]},
+        {"physics": { "x": 264, "y": 558, "z": -10, "roty": 0, "zini": -10, "zvuelta": 500 },
+        "render": { "malla": "assets/levels/Mundo1/level8/sali8tres.obj" },
+        "collider": { "subirbajar": 0 },
+        "partes": [
+            {"w":  72, "h":  24, "d": 200, "disX":   18, "disY":  -42, "lanzadorrocas": false},
+            {"w":  96, "h":  24, "d": 200, "disX":    6, "disY":  -21, "lanzadorrocas": false},
+            {"w": 120, "h":  12, "d": 200, "disX":    0, "disY":  -12, "lanzadorrocas": false},
+            {"w": 144, "h":  54, "d": 200, "disX":  -12, "disY":   24, "lanzadorrocas":  true}
+        ]},
+        {"physics": { "x":  48, "y": 666, "z": -10, "roty": 0, "zini": -10, "zvuelta": 500 },
+        "render": { "malla": "assets/levels/Mundo1/level8/sali8cinco.obj" },
+        "collider": { "subirbajar": 0 },
+        "partes": [
+            {"w":  96, "h": 144, "d": 200, "disX":   -3, "disY":   -6, "lanzadorrocas": false}
+        ]},
+        {"physics": { "x": 258, "y": 702, "z": -10, "roty": 0, "zini": -10, "zvuelta": 500 },
+        "render": { "malla": "assets/levels/Mundo1/level8/sali8cuatro.obj" },
+        "collider": { "subirbajar": 0 },
+        "partes": [
+            {"w": 144, "h":  72, "d": 200, "disX": -12, "disY":    0, "lanzadorrocas": false}
+        ]},
+        {"physics": { "x": 192, "y": 846, "z": -5, "roty": 0, "zini": -5, "zvuelta": 500 },
+        "render": { "malla": "assets/levels/Mundo1/inifin.obj" },
+        "collider": { "subirbajar": 0 },
+        "partes": [
+            {"w":  96, "h":  24, "d": 200, "disX":  30, "disY": -42, "lanzadorrocas": false},
+            {"w": 132, "h":  24, "d": 200, "disX":  18, "disY": -24, "lanzadorrocas": false},
+            {"w": 144, "h":  12, "d": 200, "disX":   6, "disY": -12, "lanzadorrocas": false},
+            {"w": 180, "h":  48, "d": 200, "disX": -12, "disY":  18, "lanzadorrocas": false}
+        ]}
+    ],
+    "nidos": [
+        {"physics": { "x": 132, "y": 279, "z":   0, "zini":   0, "zvuelta": 250 },
+        "collider": { "subirbajar": 0 },
+        "render": { "malla": "assets/modelados/nido/nido.obj", "w": 24, "h": 12, "d": 200}},
+        {"physics": { "x": 264, "y": 612, "z":   0, "zini":   0, "zvuelta": 250 },
+        "collider": { "subirbajar": 0 },
+        "render": { "malla": "assets/modelados/nido/nido.obj", "w": 24, "h": 12, "d": 200}},
+
+        {"physics": { "x": 192, "y": 204, "z": 550, "zini": 550, "zvuelta":   0 },
+        "collider": { "subirbajar": 1 },
+        "render": { "malla": "assets/modelados/nido/nido.obj", "w": 24, "h": 12, "d": 200}}
+    ],
+    "crias": [
+        {"physics": { "x": 132, "y": 279, "z":   0, "zini":   0, "zvuelta": 250 },
+        "follow": { "x":  5, "y": -5, "z": 5, "numcria": 0 },
+        "collider": { "subirbajar": 0 },
+        "render": { "malla": "assets/modelados/cria/cria.obj", "w": 12, "h": 12, "d": 200}},
+        {"physics": { "x": 264, "y": 612, "z":   0, "zini":   0, "zvuelta": 250 },
+        "follow": { "x": -5, "y": -5, "z": 5, "numcria": 2 },
+        "collider": { "subirbajar": 0 },
+        "render": { "malla": "assets/modelados/cria/cria.obj", "w": 12, "h": 12, "d": 200}},
+
+        {"physics": { "x": 192, "y": 204, "z": 550, "zini": 550, "zvuelta":   0 },
+        "follow": { "x":  0, "y": -5, "z": 5, "numcria": 1 },
+        "collider": { "subirbajar": 1 },
+        "render": { "malla": "assets/modelados/cria/cria.obj", "w": 12, "h": 12, "d": 200}}
+    ],
+    "arbustos": [
+        {"physics": { "x": 144, "y": 432, "z": 5, "zini": 5, "zvuelta": 250 },
+        "collider": { "subirbajar": 0 },
+        "render": { "malla": "assets/modelados/arbusto1/arbusto1.obj", "w": 24, "h": 24, "d": 200}}
+    ],
+    "palos": [
+
+    ],
+    "cascadas": [
+        
+    ],
+    "semillas": [
+        {"physics": { "x": 162, "y": 102, "z":   0, "zini": 0, "zvuelta": 250 },
+        "collider": { "subirbajar": 0 },
+        "render": { "malla": "assets/modelados/castanya/castanya.obj", "w": 12, "h": 12, "d": 200}},
+        {"physics": { "x": 162, "y": 162, "z":   0, "zini": 0, "zvuelta": 250 },
+        "collider": { "subirbajar": 0 },
+        "render": { "malla": "assets/modelados/castanya/castanya.obj", "w": 12, "h": 12, "d": 200}},
+        {"physics": { "x": 186, "y": 222, "z":   0, "zini": 0, "zvuelta": 250 },
+        "collider": { "subirbajar": 0 },
+        "render": { "malla": "assets/modelados/castanya/castanya.obj", "w": 12, "h": 12, "d": 200}},
+        {"physics": { "x": 210, "y": 270, "z":   0, "zini": 0, "zvuelta": 250 },
+        "collider": { "subirbajar": 0 },
+        "render": { "malla": "assets/modelados/castanya/castanya.obj", "w": 12, "h": 12, "d": 200}},
+        {"physics": { "x": 234, "y": 354, "z":   0, "zini": 0, "zvuelta": 250 },
+        "collider": { "subirbajar": 0 },
+        "render": { "malla": "assets/modelados/castanya/castanya.obj", "w": 12, "h": 12, "d": 200}},
+        {"physics": { "x": 186, "y": 486, "z":   0, "zini": 0, "zvuelta": 250 },
+        "collider": { "subirbajar": 0 },
+        "render": { "malla": "assets/modelados/castanya/castanya.obj", "w": 12, "h": 12, "d": 200}},
+        {"physics": { "x": 138, "y": 522, "z":   0, "zini": 0, "zvuelta": 250 },
+        "collider": { "subirbajar": 0 },
+        "render": { "malla": "assets/modelados/castanya/castanya.obj", "w": 12, "h": 12, "d": 200}},
+        {"physics": { "x": 144, "y": 618, "z":   0, "zini": 0, "zvuelta": 250 },
+        "collider": { "subirbajar": 0 },
+        "render": { "malla": "assets/modelados/castanya/castanya.obj", "w": 12, "h": 12, "d": 200}},
+        {"physics": { "x": 186, "y": 642, "z":   0, "zini": 0, "zvuelta": 250 },
+        "collider": { "subirbajar": 0 },
+        "render": { "malla": "assets/modelados/castanya/castanya.obj", "w": 12, "h": 12, "d": 200}},
+        {"physics": { "x": 234, "y": 642, "z":   0, "zini": 0, "zvuelta": 250 },
+        "collider": { "subirbajar": 0 },
+        "render": { "malla": "assets/modelados/castanya/castanya.obj", "w": 12, "h": 12, "d": 200}},
+        {"physics": { "x": 144, "y": 666, "z":   0, "zini": 0, "zvuelta": 250 },
+        "collider": { "subirbajar": 0 },
+        "render": { "malla": "assets/modelados/castanya/castanya.obj", "w": 12, "h": 12, "d": 200}},
+
+        {"physics": { "x": 114, "y":  78, "z": 550, "zini": 550, "zvuelta": 0 },
+        "collider": { "subirbajar": 1 },
+        "render": { "malla": "assets/modelados/castanya/castanya.obj", "w": 12, "h": 12, "d": 200}},
+        {"physics": { "x": 174, "y":  78, "z": 550, "zini": 550, "zvuelta": 0 },
+        "collider": { "subirbajar": 1 },
+        "render": { "malla": "assets/modelados/castanya/castanya.obj", "w": 12, "h": 12, "d": 200}},
+        {"physics": { "x": 222, "y":  78, "z": 550, "zini": 550, "zvuelta": 0 },
+        "collider": { "subirbajar": 1 },
+        "render": { "malla": "assets/modelados/castanya/castanya.obj", "w": 12, "h": 12, "d": 200}},
+        {"physics": { "x":  66, "y":  90, "z": 550, "zini": 550, "zvuelta": 0 },
+        "collider": { "subirbajar": 1 },
+        "render": { "malla": "assets/modelados/castanya/castanya.obj", "w": 12, "h": 12, "d": 200}},
+        {"physics": { "x": 258, "y": 114, "z": 550, "zini": 550, "zvuelta": 0 },
+        "collider": { "subirbajar": 1 },
+        "render": { "malla": "assets/modelados/castanya/castanya.obj", "w": 12, "h": 12, "d": 200}},
+        {"physics": { "x":  66, "y": 150, "z": 550, "zini": 550, "zvuelta": 0 },
+        "collider": { "subirbajar": 1 },
+        "render": { "malla": "assets/modelados/castanya/castanya.obj", "w": 12, "h": 12, "d": 200}},
+        {"physics": { "x": 258, "y": 174, "z": 550, "zini": 550, "zvuelta": 0 },
+        "collider": { "subirbajar": 1 },
+        "render": { "malla": "assets/modelados/castanya/castanya.obj", "w": 12, "h": 12, "d": 200}},
+        {"physics": { "x":  66, "y": 210, "z": 550, "zini": 550, "zvuelta": 0 },
+        "collider": { "subirbajar": 1 },
+        "render": { "malla": "assets/modelados/castanya/castanya.obj", "w": 12, "h": 12, "d": 200}},
+        {"physics": { "x": 246, "y": 222, "z": 550, "zini": 550, "zvuelta": 0 },
+        "collider": { "subirbajar": 1 },
+        "render": { "malla": "assets/modelados/castanya/castanya.obj", "w": 12, "h": 12, "d": 200}},
+        {"physics": { "x": 282, "y": 246, "z": 550, "zini": 550, "zvuelta": 0 },
+        "collider": { "subirbajar": 1 },
+        "render": { "malla": "assets/modelados/castanya/castanya.obj", "w": 12, "h": 12, "d": 200}},
+        {"physics": { "x":  66, "y": 270, "z": 550, "zini": 550, "zvuelta": 0 },
+        "collider": { "subirbajar": 1 },
+        "render": { "malla": "assets/modelados/castanya/castanya.obj", "w": 12, "h": 12, "d": 200}},
+        {"physics": { "x": 282, "y": 294, "z": 550, "zini": 550, "zvuelta": 0 },
+        "collider": { "subirbajar": 1 },
+        "render": { "malla": "assets/modelados/castanya/castanya.obj", "w": 12, "h": 12, "d": 200}},
+        {"physics": { "x":  66, "y": 330, "z": 550, "zini": 550, "zvuelta": 0 },
+        "collider": { "subirbajar": 1 },
+        "render": { "malla": "assets/modelados/castanya/castanya.obj", "w": 12, "h": 12, "d": 200}},
+        {"physics": { "x": 282, "y": 354, "z": 550, "zini": 550, "zvuelta": 0 },
+        "collider": { "subirbajar": 1 },
+        "render": { "malla": "assets/modelados/castanya/castanya.obj", "w": 12, "h": 12, "d": 200}},
+        {"physics": { "x": 282, "y": 414, "z": 550, "zini": 550, "zvuelta": 0 },
+        "collider": { "subirbajar": 1 },
+        "render": { "malla": "assets/modelados/castanya/castanya.obj", "w": 12, "h": 12, "d": 200}},
+        {"physics": { "x": 282, "y": 486, "z": 550, "zini": 550, "zvuelta": 0 },
+        "collider": { "subirbajar": 1 },
+        "render": { "malla": "assets/modelados/castanya/castanya.obj", "w": 12, "h": 12, "d": 200}},
+        {"physics": { "x": 138, "y": 510, "z": 550, "zini": 550, "zvuelta": 0 },
+        "collider": { "subirbajar": 1 },
+        "render": { "malla": "assets/modelados/castanya/castanya.obj", "w": 12, "h": 12, "d": 200}},
+        {"physics": { "x": 198, "y": 510, "z": 550, "zini": 550, "zvuelta": 0 },
+        "collider": { "subirbajar": 1 },
+        "render": { "malla": "assets/modelados/castanya/castanya.obj", "w": 12, "h": 12, "d": 200}},
+        {"physics": { "x": 258, "y": 510, "z": 550, "zini": 550, "zvuelta": 0 },
+        "collider": { "subirbajar": 1 },
+        "render": { "malla": "assets/modelados/castanya/castanya.obj", "w": 12, "h": 12, "d": 200}}
+    ],
+    "enganches": [
+        {"physics": { "x": 258, "y": 426, "z":   0, "zini":   0, "zvuelta": 250 },
+        "collider": { "subirbajar": 0},
+        "render": { "malla": "assets/modelados/enganche/gancho2.obj", "w": 12, "h": 12, "d": 200}},
+
+        {"physics": { "x": 210, "y": 234, "z": 550, "zini": 550, "zvuelta": 0 },
+        "collider": { "subirbajar": 1},
+        "render": { "malla": "assets/modelados/enganche/gancho2.obj", "w": 12, "h": 12, "d": 200}}
+    ],
+    "agujeros": [
+        {"physics": { "x":  72, "y": 348, "z": 0, "zini": 0, "zvuelta": 0 },
+        "collider": { "quesubirbajar": 1 },
+        "render": { "malla": "assets/modelados/agujero/entrada.obj", "w": 24, "h": 24, "d": 200}},
+        {"physics": { "x": 132, "y": 564, "z": 0, "zini": 0, "zvuelta": 0 },
+        "collider": { "quesubirbajar": 1 },
+        "render": { "malla": "assets/modelados/agujero/entrada.obj", "w": 24, "h": 24, "d": 200}}
+    ],
+    "trampolines": [
+        
+    ],
+    "musgos": [
+        
+    ],
+    "hielos": [
+        
+    ],
+    "planosespeciales": [
+        {"physics": { "x": 168, "y": 360, "z": 400, "zini": 400, "zvuelta":  -5 },
+        "collider": { "subirbajar": 1 },
+        "render": { "malla": "assets/levels/Mundo1/tunelplano.obj"},
+        "partes": [
+            {"w":   0, "h":   0, "d": 200, "disX":    0, "disY":    0}
+        ]},
+        {"physics": { "x": 168, "y": 324, "z": 400, "zini": 400, "zvuelta":  20 },
+        "collider": { "subirbajar": 1 },
+        "render": { "malla": "assets/levels/Mundo1/level8/tunel8.obj"},
+        "partes": [
+            {"w": 264, "h":  24, "d": 200, "disX":   12, "disY": -231},
+            {"w":  24, "h": 348, "d": 200, "disX": -129, "disY":  -90},
+            {"w":  12, "h": 468, "d": 200, "disX":  126, "disY":  -48},
+            {"w": 120, "h":  72, "d": 200, "disX":  -12, "disY": -162},
+            {"w":  72, "h": 156, "d": 200, "disX":  -39, "disY":  -60},
+            {"w":  90, "h": 198, "d": 200, "disX":   42, "disY":   63},
+            {"w":  84, "h":  72, "d": 200, "disX":  -72, "disY":  120},
+            {"w":  60, "h": 120, "d": 200, "disX":  -90, "disY":  198},
+            {"w": 144, "h":  72, "d": 200, "disX":   64, "disY":  228},
+            {"w":  60, "h":  24, "d": 200, "disX":  -30, "disY":  276}
+        ]}
+    ],
+    "meta": [
+        {"physics": { "x": 132, "y":  900, "z": 0, "zini": 0, "zvuelta": 500 },
+        "collider": { "subirbajar": 0 },
+        "render": { "malla": "assets/modelados/bandera/banderita.obj", "w": 12, "h": 12, "d": 200}}
+    ],
+    "arrow": [
+        {"physics": { "x": 180, "y": 24, "z": 0, "zini": 0, "zvuelta": 500 },
+        "collider": { "subirbajar": 0 },
+        "render": { "malla": "assets/modelados/arrow/arrow.obj", "w": 12, "h": 12, "d": 200}}
+    ]
+}

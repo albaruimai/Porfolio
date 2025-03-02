@@ -1,0 +1,104 @@
+{
+    "player": [{
+        "health": { "health": 3, "maxHealth": 3 },
+        "physics": { "x": , "y": , "z": 0, "zini": 0, "zvuelta": 0 },
+        "input": {
+            "disx1BraD": 6, "disx2BraD": 4, "disy1BraD": 4, "disy2BraD": 8, "disy3BraD": -2, "disy4BraD": 0,
+            "disx1BraI": -6, "disx2BraI": -4, "disy1BraI": 4, "disy2BraI": 8, "disy3BraI": -2, "disy4BraI": 0,
+            "disx1PieD": 6, "disx2PieD": 4, "disy1PieD": -4, "disy2PieD": 0, "disy3PieD": -6,
+            "disx1PieI": -6, "disx2PieI": -4, "disy1PieI": -4, "disy2PieI": 0, "disy3PieI": -6,
+            "disyCab": 5, "disxCabDL": -1, "disxCabDR": 1, "disxCabU": 0, "disxCabUL": -2, "disxCabUR": 2
+        },
+        "render": { "size": 12, "malla": "assets/modelados/zacaris/zarismooth.obj" },
+        "stamina": { "maxStamina": 800, "cantStamina": 800 }
+    }],
+    "enemies": [
+        {"ia": { "type": ""},
+         "physics": { "x": , "y": , "z": 0, "zini": 0, "zvuelta": 0},
+         "vision": { "xneg": 45, "xpos": 45, "yneg": 45, "ypos": 45, "zneg": 45, "zpos": 45},
+         "health": { "health": 4, "maxHealth": 4, "damageInflicted": 1, "selfDamageOnInfliction": 0},
+         "render": { "malla": "assets/modelados/cabra/cabrabuena.obj", "w": 24, "h": 24, "d": 24 }}
+    ],
+    "plano": [
+        {"physics": { "x": , "y": , "z": -5, "roty": 180, "zini": -5, "zvuelta": 500 },
+        "render": { "malla": "assets/modelados/plano/plano.obj", "w": , "h":  },
+        "partes": [
+            {"w":  24, "h": , "d": 80, "disX": -, "disY":    0},
+            {"w":  24, "h": , "d": 80, "disX":  , "disY":    0},
+            {"w": , "h":  24, "d": 80, "disX":    0, "disY": -}
+        ]}
+    ],
+    "salientes": [
+        {"physics": { "x": , "y": , "z": -10, "roty": 0, "zini": -10, "zvuelta": 500 },
+        "render": { "malla": "assets/levels/Mundo1/level4/salis1.obj" },
+        "collider": { "subirbajar": 0 },
+        "partes": [
+            {"w": , "h": , "d": 200, "disX": , "disY":  , "lanzadorrocas": false}
+        ]}
+    ],
+    "nidos": [
+        {"physics": { "x": , "y": , "z": 0, "zini": 0, "zvuelta": 0 },
+        "collider": { "subirbajar": 0 },
+        "render": { "malla": "assets/modelados/nido/nido.obj", "w": 24, "h": 12, "d": 200}}
+    ],
+    "crias": [
+        {"physics": { "x": , "y": , "z": 0, "zini": 0, "zvuelta": 0 },
+        "follow": { "x": 0, "y": -5, "z": 5 },
+        "collider": { "subirbajar": 0 },
+        "render": { "malla": "assets/modelados/cria/cria.obj", "w": 12, "h": 12, "d": 200}}
+    ],
+    "arbustos": [
+        {"physics": { "x": , "y": , "z": 5, "zini": 5, "zvuelta": 5 },
+        "collider": { "subirbajar": 0 },
+        "render": { "malla": "assets/modelados/arbusto1/arbusto1.obj", "w": 24, "h": 24, "d": 200}}
+    ],
+    "palos": [
+        {"physics": { "x": , "y": , "z": 0, "zini": 0, "zvuelta": 0 },
+        "collider": { "subirbajar": 0 },
+        "render": { "malla": "assets/modelados/palo/palo.obj", "w": 24, "h": 24, "d": 200}}
+    ],
+    "cascadas": [
+        
+    ],
+    "semillas": [
+        {"physics": { "x":  , "y":  , "z": 0, "zini": 0, "zvuelta": 0 },
+        "collider": { "subirbajar": 0 },
+        "render": { "malla": "assets/modelados/castanya/castanya.obj", "w": 12, "h": 12, "d": 200}}
+    ],
+    "enganches": [
+        {"physics": { "x": , "y": , "z": 0, "zini": 0, "zvuelta": 0 },
+        "collider": { "subirbajar": 0},
+        "render": { "malla": "assets/modelados/enganche/enganche.obj", "w": 12, "h": 12, "d": 200}}
+    ],
+    "agujeros": [
+        {"physics": { "x": , "y":  , "z": 0, "zini": 0, "zvuelta": 0 },
+        "collider": { "quesubirbajar": 1 },
+        "render": { "malla": "assets/modelados/agujero/entrada.obj", "w": 24, "h": 24, "d": 200}}
+    ],
+    "trampolines": [
+        
+    ],
+    "musgos": [
+        
+    ],
+    "hielos": [
+        
+    ],
+    "planosespeciales": [
+        {"physics": { "x": , "y": , "z": 400, "zini": 400, "zvuelta": -40 },
+        "collider": { "subirbajar": 1 },
+        "render": { "malla": "assets/levels/Mundo1/level9/tunel1.obj"},
+        "partes": [
+            {"w":  , "h":  , "d": 200, "disX":   , "disY": }
+        ]}
+    ],
+    "meta": [
+        {"physics": { "x": , "y": , "z":   0, "zini": 0, "zvuelta": 500},
+        "collider": {"w":  , "h":  , "d": 200}}
+    ],
+    "arrow": [
+        {"physics": { "x": , "y": , "z": 0, "zini": 0, "zvuelta": 500 },
+        "collider": { "subirbajar": 0 },
+        "render": { "malla": "assets/modelados/arrow/arrow.obj", "w": 12, "h": 12, "d": 200}}
+    ]
+}

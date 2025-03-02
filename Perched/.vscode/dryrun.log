@@ -1,0 +1,70 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/miguel/Perched'
+mkdir -p  obj  obj/Motor3D  obj/Motor3D/Motor3DLUM  obj/Motor3D/Motor3DLUM/Shaders  obj/Motor3D/Motor3DLUM/Resources  obj/cmp  obj/MotorSonido  obj/man  obj/glm  obj/glm/simd  obj/glm/ext  obj/glm/gtc  obj/glm/gtx  obj/glm/detail  obj/stb  obj/glad  obj/util  obj/util/gob  obj/util/bt  obj/util/fmod  obj/util/path  obj/util/navMesh  obj/util/stbe  obj/sys  obj/picoJSON
+mkdir -p  obj  obj/Motor3D  obj/Motor3D/Motor3DLUM  obj/Motor3D/Motor3DLUM/Shaders  obj/Motor3D/Motor3DLUM/Resources  obj/cmp  obj/MotorSonido  obj/man  obj/glm  obj/glm/simd  obj/glm/ext  obj/glm/gtc  obj/glm/gtx  obj/glm/detail  obj/stb  obj/glad  obj/util  obj/util/gob  obj/util/bt  obj/util/fmod  obj/util/path  obj/util/navMesh  obj/util/stbe  obj/sys  obj/picoJSON
+mkdir -p  obj  obj/Motor3D  obj/Motor3D/Motor3DLUM  obj/Motor3D/Motor3DLUM/Shaders  obj/Motor3D/Motor3DLUM/Resources  obj/cmp  obj/MotorSonido  obj/man  obj/glm  obj/glm/simd  obj/glm/ext  obj/glm/gtc  obj/glm/gtx  obj/glm/detail  obj/stb  obj/glad  obj/util  obj/util/gob  obj/util/bt  obj/util/fmod  obj/util/path  obj/util/navMesh  obj/util/stbe  obj/sys  obj/picoJSON
+mkdir -p  obj  obj/Motor3D  obj/Motor3D/Motor3DLUM  obj/Motor3D/Motor3DLUM/Shaders  obj/Motor3D/Motor3DLUM/Resources  obj/cmp  obj/MotorSonido  obj/man  obj/glm  obj/glm/simd  obj/glm/ext  obj/glm/gtc  obj/glm/gtx  obj/glm/detail  obj/stb  obj/glad  obj/util  obj/util/gob  obj/util/bt  obj/util/fmod  obj/util/path  obj/util/navMesh  obj/util/stbe  obj/sys  obj/picoJSON
+mkdir -p  obj  obj/Motor3D  obj/Motor3D/Motor3DLUM  obj/Motor3D/Motor3DLUM/Shaders  obj/Motor3D/Motor3DLUM/Resources  obj/cmp  obj/MotorSonido  obj/man  obj/glm  obj/glm/simd  obj/glm/ext  obj/glm/gtc  obj/glm/gtx  obj/glm/detail  obj/stb  obj/glad  obj/util  obj/util/gob  obj/util/bt  obj/util/fmod  obj/util/path  obj/util/navMesh  obj/util/stbe  obj/sys  obj/picoJSON
+mkdir -p  obj  obj/Motor3D  obj/Motor3D/Motor3DLUM  obj/Motor3D/Motor3DLUM/Shaders  obj/Motor3D/Motor3DLUM/Resources  obj/cmp  obj/MotorSonido  obj/man  obj/glm  obj/glm/simd  obj/glm/ext  obj/glm/gtc  obj/glm/gtx  obj/glm/detail  obj/stb  obj/glad  obj/util  obj/util/gob  obj/util/bt  obj/util/fmod  obj/util/path  obj/util/navMesh  obj/util/stbe  obj/sys  obj/picoJSON
+mkdir -p  obj  obj/Motor3D  obj/Motor3D/Motor3DLUM  obj/Motor3D/Motor3DLUM/Shaders  obj/Motor3D/Motor3DLUM/Resources  obj/cmp  obj/MotorSonido  obj/man  obj/glm  obj/glm/simd  obj/glm/ext  obj/glm/gtc  obj/glm/gtx  obj/glm/detail  obj/stb  obj/glad  obj/util  obj/util/gob  obj/util/bt  obj/util/fmod  obj/util/path  obj/util/navMesh  obj/util/stbe  obj/sys  obj/picoJSON
+mkdir -p  obj  obj/Motor3D  obj/Motor3D/Motor3DLUM  obj/Motor3D/Motor3DLUM/Shaders  obj/Motor3D/Motor3DLUM/Resources  obj/cmp  obj/MotorSonido  obj/man  obj/glm  obj/glm/simd  obj/glm/ext  obj/glm/gtc  obj/glm/gtx  obj/glm/detail  obj/stb  obj/glad  obj/util  obj/util/gob  obj/util/bt  obj/util/fmod  obj/util/path  obj/util/navMesh  obj/util/stbe  obj/sys  obj/picoJSON
+mkdir -p  obj  obj/Motor3D  obj/Motor3D/Motor3DLUM  obj/Motor3D/Motor3DLUM/Shaders  obj/Motor3D/Motor3DLUM/Resources  obj/cmp  obj/MotorSonido  obj/man  obj/glm  obj/glm/simd  obj/glm/ext  obj/glm/gtc  obj/glm/gtx  obj/glm/detail  obj/stb  obj/glad  obj/util  obj/util/gob  obj/util/bt  obj/util/fmod  obj/util/path  obj/util/navMesh  obj/util/stbe  obj/sys  obj/picoJSON
+mkdir -p  obj  obj/Motor3D  obj/Motor3D/Motor3DLUM  obj/Motor3D/Motor3DLUM/Shaders  obj/Motor3D/Motor3DLUM/Resources  obj/cmp  obj/MotorSonido  obj/man  obj/glm  obj/glm/simd  obj/glm/ext  obj/glm/gtc  obj/glm/gtx  obj/glm/detail  obj/stb  obj/glad  obj/util  obj/util/gob  obj/util/bt  obj/util/fmod  obj/util/path  obj/util/navMesh  obj/util/stbe  obj/sys  obj/picoJSON
+mkdir -p  obj  obj/Motor3D  obj/Motor3D/Motor3DLUM  obj/Motor3D/Motor3DLUM/Shaders  obj/Motor3D/Motor3DLUM/Resources  obj/cmp  obj/MotorSonido  obj/man  obj/glm  obj/glm/simd  obj/glm/ext  obj/glm/gtc  obj/glm/gtx  obj/glm/detail  obj/stb  obj/glad  obj/util  obj/util/gob  obj/util/bt  obj/util/fmod  obj/util/path  obj/util/navMesh  obj/util/stbe  obj/sys  obj/picoJSON
+mkdir -p  obj  obj/Motor3D  obj/Motor3D/Motor3DLUM  obj/Motor3D/Motor3DLUM/Shaders  obj/Motor3D/Motor3DLUM/Resources  obj/cmp  obj/MotorSonido  obj/man  obj/glm  obj/glm/simd  obj/glm/ext  obj/glm/gtc  obj/glm/gtx  obj/glm/detail  obj/stb  obj/glad  obj/util  obj/util/gob  obj/util/bt  obj/util/fmod  obj/util/path  obj/util/navMesh  obj/util/stbe  obj/sys  obj/picoJSON
+mkdir -p  obj  obj/Motor3D  obj/Motor3D/Motor3DLUM  obj/Motor3D/Motor3DLUM/Shaders  obj/Motor3D/Motor3DLUM/Resources  obj/cmp  obj/MotorSonido  obj/man  obj/glm  obj/glm/simd  obj/glm/ext  obj/glm/gtc  obj/glm/gtx  obj/glm/detail  obj/stb  obj/glad  obj/util  obj/util/gob  obj/util/bt  obj/util/fmod  obj/util/path  obj/util/navMesh  obj/util/stbe  obj/sys  obj/picoJSON
+mkdir -p  obj  obj/Motor3D  obj/Motor3D/Motor3DLUM  obj/Motor3D/Motor3DLUM/Shaders  obj/Motor3D/Motor3DLUM/Resources  obj/cmp  obj/MotorSonido  obj/man  obj/glm  obj/glm/simd  obj/glm/ext  obj/glm/gtc  obj/glm/gtx  obj/glm/detail  obj/stb  obj/glad  obj/util  obj/util/gob  obj/util/bt  obj/util/fmod  obj/util/path  obj/util/navMesh  obj/util/stbe  obj/sys  obj/picoJSON
+mkdir -p  obj  obj/Motor3D  obj/Motor3D/Motor3DLUM  obj/Motor3D/Motor3DLUM/Shaders  obj/Motor3D/Motor3DLUM/Resources  obj/cmp  obj/MotorSonido  obj/man  obj/glm  obj/glm/simd  obj/glm/ext  obj/glm/gtc  obj/glm/gtx  obj/glm/detail  obj/stb  obj/glad  obj/util  obj/util/gob  obj/util/bt  obj/util/fmod  obj/util/path  obj/util/navMesh  obj/util/stbe  obj/sys  obj/picoJSON
+mkdir -p  obj  obj/Motor3D  obj/Motor3D/Motor3DLUM  obj/Motor3D/Motor3DLUM/Shaders  obj/Motor3D/Motor3DLUM/Resources  obj/cmp  obj/MotorSonido  obj/man  obj/glm  obj/glm/simd  obj/glm/ext  obj/glm/gtc  obj/glm/gtx  obj/glm/detail  obj/stb  obj/glad  obj/util  obj/util/gob  obj/util/bt  obj/util/fmod  obj/util/path  obj/util/navMesh  obj/util/stbe  obj/sys  obj/picoJSON
+mkdir -p  obj  obj/Motor3D  obj/Motor3D/Motor3DLUM  obj/Motor3D/Motor3DLUM/Shaders  obj/Motor3D/Motor3DLUM/Resources  obj/cmp  obj/MotorSonido  obj/man  obj/glm  obj/glm/simd  obj/glm/ext  obj/glm/gtc  obj/glm/gtx  obj/glm/detail  obj/stb  obj/glad  obj/util  obj/util/gob  obj/util/bt  obj/util/fmod  obj/util/path  obj/util/navMesh  obj/util/stbe  obj/sys  obj/picoJSON
+mkdir -p  obj  obj/Motor3D  obj/Motor3D/Motor3DLUM  obj/Motor3D/Motor3DLUM/Shaders  obj/Motor3D/Motor3DLUM/Resources  obj/cmp  obj/MotorSonido  obj/man  obj/glm  obj/glm/simd  obj/glm/ext  obj/glm/gtc  obj/glm/gtx  obj/glm/detail  obj/stb  obj/glad  obj/util  obj/util/gob  obj/util/bt  obj/util/fmod  obj/util/path  obj/util/navMesh  obj/util/stbe  obj/sys  obj/picoJSON
+mkdir -p  obj  obj/Motor3D  obj/Motor3D/Motor3DLUM  obj/Motor3D/Motor3DLUM/Shaders  obj/Motor3D/Motor3DLUM/Resources  obj/cmp  obj/MotorSonido  obj/man  obj/glm  obj/glm/simd  obj/glm/ext  obj/glm/gtc  obj/glm/gtx  obj/glm/detail  obj/stb  obj/glad  obj/util  obj/util/gob  obj/util/bt  obj/util/fmod  obj/util/path  obj/util/navMesh  obj/util/stbe  obj/sys  obj/picoJSON
+mkdir -p  obj  obj/Motor3D  obj/Motor3D/Motor3DLUM  obj/Motor3D/Motor3DLUM/Shaders  obj/Motor3D/Motor3DLUM/Resources  obj/cmp  obj/MotorSonido  obj/man  obj/glm  obj/glm/simd  obj/glm/ext  obj/glm/gtc  obj/glm/gtx  obj/glm/detail  obj/stb  obj/glad  obj/util  obj/util/gob  obj/util/bt  obj/util/fmod  obj/util/path  obj/util/navMesh  obj/util/stbe  obj/sys  obj/picoJSON
+mkdir -p  obj  obj/Motor3D  obj/Motor3D/Motor3DLUM  obj/Motor3D/Motor3DLUM/Shaders  obj/Motor3D/Motor3DLUM/Resources  obj/cmp  obj/MotorSonido  obj/man  obj/glm  obj/glm/simd  obj/glm/ext  obj/glm/gtc  obj/glm/gtx  obj/glm/detail  obj/stb  obj/glad  obj/util  obj/util/gob  obj/util/bt  obj/util/fmod  obj/util/path  obj/util/navMesh  obj/util/stbe  obj/sys  obj/picoJSON
+mkdir -p  obj  obj/Motor3D  obj/Motor3D/Motor3DLUM  obj/Motor3D/Motor3DLUM/Shaders  obj/Motor3D/Motor3DLUM/Resources  obj/cmp  obj/MotorSonido  obj/man  obj/glm  obj/glm/simd  obj/glm/ext  obj/glm/gtc  obj/glm/gtx  obj/glm/detail  obj/stb  obj/glad  obj/util  obj/util/gob  obj/util/bt  obj/util/fmod  obj/util/path  obj/util/navMesh  obj/util/stbe  obj/sys  obj/picoJSON
+mkdir -p  obj  obj/Motor3D  obj/Motor3D/Motor3DLUM  obj/Motor3D/Motor3DLUM/Shaders  obj/Motor3D/Motor3DLUM/Resources  obj/cmp  obj/MotorSonido  obj/man  obj/glm  obj/glm/simd  obj/glm/ext  obj/glm/gtc  obj/glm/gtx  obj/glm/detail  obj/stb  obj/glad  obj/util  obj/util/gob  obj/util/bt  obj/util/fmod  obj/util/path  obj/util/navMesh  obj/util/stbe  obj/sys  obj/picoJSON
+mkdir -p  obj  obj/Motor3D  obj/Motor3D/Motor3DLUM  obj/Motor3D/Motor3DLUM/Shaders  obj/Motor3D/Motor3DLUM/Resources  obj/cmp  obj/MotorSonido  obj/man  obj/glm  obj/glm/simd  obj/glm/ext  obj/glm/gtc  obj/glm/gtx  obj/glm/detail  obj/stb  obj/glad  obj/util  obj/util/gob  obj/util/bt  obj/util/fmod  obj/util/path  obj/util/navMesh  obj/util/stbe  obj/sys  obj/picoJSON
+mkdir -p  obj  obj/Motor3D  obj/Motor3D/Motor3DLUM  obj/Motor3D/Motor3DLUM/Shaders  obj/Motor3D/Motor3DLUM/Resources  obj/cmp  obj/MotorSonido  obj/man  obj/glm  obj/glm/simd  obj/glm/ext  obj/glm/gtc  obj/glm/gtx  obj/glm/detail  obj/stb  obj/glad  obj/util  obj/util/gob  obj/util/bt  obj/util/fmod  obj/util/path  obj/util/navMesh  obj/util/stbe  obj/sys  obj/picoJSON
+ccache g++ -c -o obj/Motor3D/Motor3DLUM/Shaders/Shader.o -g -c src/Motor3D/Motor3DLUM/Shaders/Shader.cpp  -std=c++20
+ccache g++ -c -o obj/Motor3D/Motor3DLUM/MaterialLUM.o -g -c src/Motor3D/Motor3DLUM/MaterialLUM.cpp  -std=c++20
+ccache g++ -c -o obj/Motor3D/Motor3DLUM/Motor3DLUM.o -g -c src/Motor3D/Motor3DLUM/Motor3DLUM.cpp  -std=c++20
+ccache g++ -c -o obj/Motor3D/Motor3DLUM/Resources/ResourceManager.o -g -c src/Motor3D/Motor3DLUM/Resources/ResourceManager.cpp  -std=c++20
+ccache g++ -c -o obj/Motor3D/Motor3DLUM/ModelLUM.o -g -c src/Motor3D/Motor3DLUM/ModelLUM.cpp  -std=c++20
+ccache g++ -c -o obj/Motor3D/Motor3DLUM/Shape.o -g -c src/Motor3D/Motor3DLUM/Shape.cpp  -std=c++20
+ccache g++ -c -o obj/Motor3D/Motor3DLUM/CameraLUM.o -g -c src/Motor3D/Motor3DLUM/CameraLUM.cpp  -std=c++20
+ccache g++ -c -o obj/Motor3D/Motor3DLUM/NodeLUM.o -g -c src/Motor3D/Motor3DLUM/NodeLUM.cpp  -std=c++20
+ccache g++ -c -o obj/Motor3D/Motor3DLUM/LightLUM.o -g -c src/Motor3D/Motor3DLUM/LightLUM.cpp  -std=c++20
+ccache g++ -c -o obj/Motor3D/Motor3DLUM/MeshLUM.o -g -c src/Motor3D/Motor3DLUM/MeshLUM.cpp  -std=c++20
+ccache g++ -c -o obj/Motor3D/Vector3d.o -g -c src/Motor3D/Vector3d.cpp  -std=c++20
+ccache g++ -c -o obj/MotorSonido/MotorSonido.o -g -c src/MotorSonido/MotorSonido.cpp  -std=c++20
+ccache g++ -c -o obj/man/entitymanager.o -g -c src/man/entitymanager.cpp  -std=c++20
+ccache g++ -c -o obj/man/game.o -g -c src/man/game.cpp  -std=c++20
+ccache g++ -c -o obj/glm/detail/glm.o -g -c src/glm/detail/glm.cpp  -std=c++20
+ccache g++ -c -o obj/main.o -g -c src/main.cpp  -std=c++20
+ccache g++ -c -o obj/util/keyboard.o -g -c src/util/keyboard.cpp  -std=c++20
+ccache g++ -c -o obj/util/gameobjectfactory.o -g -c src/util/gameobjectfactory.cpp  -std=c++20
+ccache g++ -c -o obj/util/fmod/common_platform.o -g -c src/util/fmod/common_platform.cpp  -std=c++20
+ccache g++ -c -o obj/util/fmod/common.o -g -c src/util/fmod/common.cpp  -std=c++20
+ccache g++ -c -o obj/util/path/pathA.o -g -c src/util/path/pathA.cpp  -std=c++20
+ccache g++ -c -o obj/util/path/pathP.o -g -c src/util/path/pathP.cpp  -std=c++20
+ccache g++ -c -o obj/util/navMesh/NavMesh.o -g -c src/util/navMesh/NavMesh.cpp  -std=c++20
+ccache g++ -c -o obj/util/navMesh/Triangle.o -g -c src/util/navMesh/Triangle.cpp  -std=c++20
+ccache g++ -c -o obj/util/stbe/Steering.o -g -c src/util/stbe/Steering.cpp  -std=c++20
+ccache g++ -c -o obj/sys/render.o -g -c src/sys/render.cpp  -std=c++20
+ccache g++ -c -o obj/sys/follow.o -g -c src/sys/follow.cpp  -std=c++20
+ccache g++ -c -o obj/sys/ia.o -g -c src/sys/ia.cpp  -std=c++20
+ccache g++ -c -o obj/sys/stamina.o -g -c src/sys/stamina.cpp  -std=c++20
+ccache g++ -c -o obj/sys/camera.o -g -c src/sys/camera.cpp  -std=c++20
+ccache g++ -c -o obj/sys/text.o -g -c src/sys/text.cpp  -std=c++20
+ccache g++ -c -o obj/sys/input.o -g -c src/sys/input.cpp  -std=c++20
+ccache g++ -c -o obj/sys/colission.o -g -c src/sys/colission.cpp  -std=c++20
+ccache g++ -c -o obj/sys/sound.o -g -c src/sys/sound.cpp  -std=c++20
+ccache g++ -c -o obj/sys/spawn.o -g -c src/sys/spawn.cpp  -std=c++20
+ccache g++ -c -o obj/sys/physics.o -g -c src/sys/physics.cpp  -std=c++20
+ccache g++ -c -o obj/sys/health.o -g -c src/sys/health.cpp  -std=c++20
+ccache g++ -c -o obj/sys/blackboard.o -g -c src/sys/blackboard.cpp  -std=c++20
+ccache g++ -c -o obj/open.o -g -c src/open.cpp  -std=c++20
+gcc -c -o obj/glad/glad.o -g -c src/glad/glad.c  -std=c++20
+ccache g++ -o Perched obj/Motor3D/Motor3DLUM/Shaders/Shader.o obj/Motor3D/Motor3DLUM/MaterialLUM.o obj/Motor3D/Motor3DLUM/Motor3DLUM.o obj/Motor3D/Motor3DLUM/Resources/ResourceManager.o obj/Motor3D/Motor3DLUM/ModelLUM.o obj/Motor3D/Motor3DLUM/Shape.o obj/Motor3D/Motor3DLUM/CameraLUM.o obj/Motor3D/Motor3DLUM/NodeLUM.o obj/Motor3D/Motor3DLUM/LightLUM.o obj/Motor3D/Motor3DLUM/MeshLUM.o obj/Motor3D/Vector3d.o obj/MotorSonido/MotorSonido.o obj/man/entitymanager.o obj/man/game.o obj/glm/detail/glm.o obj/main.o obj/util/keyboard.o obj/util/gameobjectfactory.o obj/util/fmod/common_platform.o obj/util/fmod/common.o obj/util/path/pathA.o obj/util/path/pathP.o obj/util/navMesh/NavMesh.o obj/util/navMesh/Triangle.o obj/util/stbe/Steering.o obj/sys/render.o obj/sys/follow.o obj/sys/ia.o obj/sys/stamina.o obj/sys/camera.o obj/sys/text.o obj/sys/input.o obj/sys/colission.o obj/sys/sound.o obj/sys/spawn.o obj/sys/physics.o obj/sys/health.o obj/sys/blackboard.o obj/open.o obj/glad/glad.o -L./irrlicht-1.8.5/lib/Linux -lIrrlicht -lassimp -lglfw -lX11 -lXext -lGL -ldl -Wl,-rpath=lib/ -fsanitize=address,undefined -L./fmod/fmod/core/lib/x86_64 -L./fmod/fmod/studio/lib/x86_64 -lfmod -lfmodstudio -lGL -lm -lpthread -ldl -lrt -lX11 -Wl,-rpath=lib/
+make: Leaving directory '/home/miguel/Perched'
+ 
