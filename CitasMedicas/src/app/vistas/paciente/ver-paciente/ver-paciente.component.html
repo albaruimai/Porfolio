@@ -1,0 +1,29 @@
+<div class="container">
+  <h3>Datos Paciente</h3>
+  <hr>
+
+  <p> <b>Id: </b> {{paciente.id}}</p>
+
+  <p> <b>Usuario: </b> {{paciente.usuario}}</p>
+
+  <p><b>Nombre: </b> {{paciente.nombre}}</p>
+
+  <p><b>Apellidos: </b> {{paciente.apellidos}}</p>
+
+  <p><b>Clave: </b> {{paciente.clave}}</p>
+
+  <p><b>Número Tarjeta: </b> {{paciente.numTarjeta}}</p>
+
+  <p><b>NSS: </b> {{paciente.nss}}</p>
+
+  <p><b>Teléfono: </b> {{paciente.telefono}}</p>
+
+  <p><b>Dirección: </b> {{paciente.direccion}}</p>
+
+
+  <button type="submit" (click)="editar(paciente.id!)">Editar</button>
+  <button type="submit" (click)="borrar()">Borrar</button>
+  <button type="submit" (click)="atras()">Atrás</button>
+
+
+</div>

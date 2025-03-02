@@ -1,0 +1,32 @@
+
+<div class="container">
+  <app-menu></app-menu>
+
+  <h3>Lista de Citas</h3>
+  <hr />
+  <button type="button" class="btn btn-primary" (click)="nuevaCita()">Nueva Cita</button>
+  <table class="table table-hover">
+    <thead>
+      <tr>
+        <th scope="col">ID</th>
+        <th scope="col">Fecha y Hora</th>
+        <th scope="col">Motivo</th>
+        <th scope="col">Médico</th>
+        <th scope="col">Paciente</th>
+        <th scope="col">Diagnóstico</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let cita of citas" (click)="verCita(cita.id!)">
+        <th scope="row">{{ cita.id }}</th>
+        <td>{{ cita.fechaHora| date: 'YYYY-MM-dd HH:mm:ss'}}</td>
+        <td>{{ cita.motivoCita }}</td>
+        <td>{{ cita.medico!.id}}</td>
+        <td>{{ cita.paciente!.id}}</td>
+        <td>{{ cita.diagnostico!.id}}</td>
+      </tr>
+    </tbody>
+
+  </table>
+
+</div>

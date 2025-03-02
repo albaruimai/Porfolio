@@ -1,0 +1,13 @@
+<nav class="navbar navbar-expand-lg navbar-light" style="background-color: #e3f2fd;">
+  <div class="container-fluid">
+      <div class="navbar-nav">
+        <a class="nav-link" [routerLink]="['/paciente']" [routerLinkActive]="['active']">Pacientes</a>
+        <a class="nav-link" [routerLink]="['/medico']" [routerLinkActive]="['active']">Médicos</a>
+        <a class="nav-link" [routerLink]="['/cita']" [routerLinkActive]="['active']">Citas</a>
+        <a class="nav-link" [routerLink]="['/misPacientes']" [routerLinkActive]="['active']" *ngIf="tipo=='medico'">Mis pacientes</a>
+        <a class="nav-link" [routerLink]="['/misMedicos']" [routerLinkActive]="['active']" *ngIf="tipo=='paciente'">Mis médicos</a>
+
+    </div>
+    <button class="nav-link" (click)="cerrar()">Cerrar sesión</button>
+  </div>
+</nav>

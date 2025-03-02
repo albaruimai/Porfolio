@@ -1,0 +1,36 @@
+<div class="container">
+  <h3>Datos Cita</h3>
+  <hr>
+
+  <p><b>Id: </b>{{cita.id}}</p>
+
+  <p><b>Fecha y Hora: </b>{{cita.fechaHora | date: 'YYYY-MM-dd HH:mm:ss'}}</p>
+
+  <p><b>Motivo Cita: </b>{{cita.motivoCita}}</p>
+
+  <p><b>Médico: </b>{{cita.medico!.id}} - {{cita.medico!.usuario}}, {{cita.medico!.nombre}}, {{cita.medico!.apellidos}}</p>
+  <button type="submit" class="btn" [routerLink]="['/verMedico', cita.medico!.id]">Ver datos</button>
+
+  <p><b>Paciente: </b>{{cita.paciente!.id}} - {{cita.paciente!.usuario}}, {{cita.paciente!.nombre}}, {{cita.paciente!.apellidos}}</p>
+  <button type="submit" class="btn" [routerLink]="['/verPaciente', cita.paciente!.id]">Ver datos</button>
+
+  <br />
+
+  <br />
+
+  <h4>Datos Diagnóstico</h4>
+
+  <p><b>Id Diagnóstico: </b>{{diag.id}}</p>
+
+  <p><b>Enfermedad: </b>{{diag.enfermedad}}</p>
+
+  <p><b>Valoración: </b>{{diag.valoracion}}</p>
+
+
+
+  <button type="submit" class="btn btn-primary" (click)="editar(cita.id!)">Editar</button>
+  <button type="submit" class="btn btn-danger" (click)="borrar()">Borrar</button>
+  <button type="submit" class="btn btn-secondary" (click)="atras()">Atrás</button>
+
+
+</div>

@@ -1,0 +1,23 @@
+<div class="container">
+  <h3>Datos Médico</h3>
+  <hr>
+
+  <p><b>Id: </b>{{medico.id}}</p>
+
+  <p><b>Usuario: </b>{{medico.usuario}}</p>
+
+  <p><b>Nombre: </b>{{medico.nombre}}</p>
+
+  <p><b>Apellidos: </b>{{medico.apellidos}}</p>
+
+  <p><b>Clave: </b>{{medico.clave}}</p>
+
+  <p><b>Número Colegiado: </b>{{medico.numColegiado}}</p>
+
+
+  <button type="submit" class="btn btn-primary" (click)="editar(medico.id!)">Editar</button>
+  <button type="submit" class="btn btn-danger" (click)="borrar()">Borrar</button>
+  <button type="submit" class="btn btn-secondary" (click)="atras()">Atrás</button>
+
+
+</div>

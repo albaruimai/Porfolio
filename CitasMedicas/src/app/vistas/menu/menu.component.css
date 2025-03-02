@@ -1,0 +1,24 @@
+a:hover {
+  background-color: #a8daff;
+  color:#17759C;
+  font-weight: bold;
+}
+
+.active {
+  font-weight: bold;
+  color: #17759C;
+}
+
+a {
+  color: #17759C;
+}
+
+button{
+  color: #17759C;
+}
+
+button:hover {
+  background-color: #a8daff;
+  color:#17759C;
+  font-weight: bold;
+}

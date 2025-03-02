@@ -1,0 +1,45 @@
+h3 {
+  margin: 1% auto;
+  font-family: Helvetica, sans-serif;
+  font-weight: 600;
+  color: #17759C;
+}
+
+b {
+  color: #17759C;
+}
+
+hr {
+  border: 1px solid
+}
+
+th {
+  color: #17759C;
+}
+
+label {
+  font-weight: 600;
+  color: #17759C;
+  font-size: 18px;
+}
+
+button {
+  background-image: linear-gradient(-180deg, #37AEE2 0%, #1E96C8 100%);
+  border-radius: .5rem;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  font-size: 16px;
+  justify-content: center;
+  padding: 0.75rem 1.50rem;
+  text-decoration: none;
+  border: 0;
+  cursor: pointer;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  margin: 4px;
+}
+
+  button:hover {
+    background-image: linear-gradient(-180deg, #1D95C9 0%, #17759C 100%);
+  }
