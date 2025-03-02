@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+		                   assembly="Roll_n_RunGenNHibernate"
+		                   namespace="Roll_n_RunGenNHibernate.EN.Roll_n_Run">
+		    
+		    
+			
+				<class name="UsuarioEN" table="Usuario"> 
+				  	
+						<id name="Id" column="idUsuario" type="integer"> 
+							<generator class="hilo"/>
+						</id>
+			
+					
+					<property name="Nombre" type="string"> 
+						<column name="nombre"  not-null="true"/>
+					</property>
+					<property name="Email" type="string"> 
+						<column name="email"  unique="true" not-null="true"/>
+					</property>
+					<property name="Apellidos" type="string"> 
+						<column name="apellidos"  not-null="true"/>
+					</property>
+					<property name="Nickname" type="string"> 
+						<column name="nickname"  unique="true" not-null="true"/>
+					</property>
+					<property name="Telefono" type="string"> 
+						<column name="telefono" />
+					</property>
+					<property name="Pass" type="string"> 
+						<column name="pass"  not-null="true"/>
+					</property>
+					<property name="Rol" > 
+						<column name="rol"  not-null="true"/>
+					</property>
+					<property name="Imagen" type="string"> 
+						<column name="imagen"  not-null="true"/>
+					</property>
+			
+			
+			
+			
+			
+			
+			
+		  			
+						<bag name="Tarjeta" >
+							<key>
+							
+								
+								<column name="FK_idUsuario_idUsuario"/>
+					      	</key>
+							<one-to-many class="Roll_n_RunGenNHibernate.EN.Roll_n_Run.TarjetaEN"/>
+					    </bag>
+					
+			
+		  			
+						<bag name="Direccion" >
+							<key>
+							
+								
+								<column name="FK_idUsuario_idUsuario"/>
+					      	</key>
+							<one-to-many class="Roll_n_RunGenNHibernate.EN.Roll_n_Run.DireccionEN"/>
+					    </bag>
+					
+			
+		  			
+						<bag name="Pedido" >
+							<key>
+							
+								
+								<column name="FK_idUsuario_idUsuario"/>
+					      	</key>
+							<one-to-many class="Roll_n_RunGenNHibernate.EN.Roll_n_Run.PedidoEN"/>
+					    </bag>
+					
+			
+		  			
+						<bag name="Valoracion" >
+							<key>
+							
+								
+								<column name="FK_idUsuario_idUsuario"/>
+					      	</key>
+							<one-to-many class="Roll_n_RunGenNHibernate.EN.Roll_n_Run.ValoracionEN"/>
+					    </bag>
+					
+			
+		  			
+						<bag name="Subforo_autor" >
+							<key>
+							
+								
+								<column name="FK_idUsuario_idUsuario"/>
+					      	</key>
+							<one-to-many class="Roll_n_RunGenNHibernate.EN.Roll_n_Run.SubforoEN"/>
+					    </bag>
+					
+			
+		  			
+						<bag name="Entrada" >
+							<key>
+							
+								
+								<column name="FK_idUsuario_idUsuario"/>
+					      	</key>
+							<one-to-many class="Roll_n_RunGenNHibernate.EN.Roll_n_Run.EntradaEN"/>
+					    </bag>
+					
+			
+			
+			
+		  			
+						<bag name="Productos_deseados" table="[producto_usuario]" inverse="true" >
+							<key>
+								
+									<column name="FK_idUsuario_idUsuario"/> 
+							</key>
+      						<many-to-many class="Roll_n_RunGenNHibernate.EN.Roll_n_Run.ProductoEN">
+									<column name="FK_idProducto_idProducto"/> 
+      						</many-to-many>
+    					</bag>
+			
+		  			
+						<bag name="Subforos" table="[subforo_0_usuario]" inverse="true" >
+							<key>
+								
+									<column name="FK_idUsuario_idUsuario"/> 
+							</key>
+      						<many-to-many class="Roll_n_RunGenNHibernate.EN.Roll_n_Run.SubforoEN">
+									<column name="FK_idSubforo_idSubforo_0"/> 
+      						</many-to-many>
+    					</bag>
+			
+			
+		  			
+						<bag name="Devolucion" >
+							<key>
+							
+								
+								<column name="FK_idUsuario_idUsuario"/>
+					      	</key>
+							<one-to-many class="Roll_n_RunGenNHibernate.EN.Roll_n_Run.DevolucionEN"/>
+					    </bag>
+					
+			
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+		
+		 </class>	
+		  
+		  <query name="UsuarioENReadAllHQL">from UsuarioEN</query>
+		  <query name="UsuarioENgetUsuarioEmailHQL"><![CDATA[select usu FROM UsuarioEN as usu where usu.Email = :p_email ]]></query>
+		</hibernate-mapping>
+	

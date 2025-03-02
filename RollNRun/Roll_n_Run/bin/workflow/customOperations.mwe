@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<workflow>
+  <property name="es.ua.dlsi.ooh.conceptual.model" value=""/>
+  <property name="src-gen" value="../Roll_n_RunGen"/>
+  <property name="id" value=""/>
+  <property name="projectName" value="'Roll_n_RunGen'"/>
+  <cartridge file="workflow::nhibernate::customOperations.mwe" inheritAll="true"/>
+</workflow>

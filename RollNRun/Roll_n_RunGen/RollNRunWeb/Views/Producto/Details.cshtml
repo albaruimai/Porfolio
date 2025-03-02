@@ -1,0 +1,91 @@
+﻿@model RollNRunWeb.Models.ProductoViewModel
+
+@{ ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml"; }
+
+<h2>Detalles</h2>
+
+<div>
+    <hr>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-xs-12 col-md-8 col-lg-8">
+                <table>
+                    <tr>
+                        <td style="width:300px; padding-right:20px">
+                            <img class="img-responsive" src="@Html.DisplayFor(model => model.imagen)" />
+                        </td>
+
+                        <td style="width: 500px; text-align:left">
+                            <h2>
+                                <b>@Html.DisplayFor(model => model.nombre)</b>
+                                <h3>Valoración: @Html.DisplayFor(model => model.valMedia)</h3>
+                            </h2>
+                            <br>
+                            <h3><b>Marca: </b> @Html.DisplayFor(model => model.marca)</h3>
+                            <h3><b>Descripcion: </b> @Html.DisplayFor(model => model.descripcion)</h3>
+
+                            @if (Model.oferta > 0)
+                            {
+                                double sale = Double.Parse(Model.precio.Replace(".", ",")) - (Double.Parse(Model.precio.Replace(".", ",")) * (Model.oferta / 100));
+                                sale = (double)(Math.Round((double)sale, 2));
+
+                                <p>
+                                    <del>@Html.DisplayFor(modelItem => Model.precio)</del>
+                                    <u>Oferta @Html.DisplayFor(modelItem => Model.oferta) %</u>
+                                </p>
+                                <h3>
+                                    @sale.ToString().Replace(",", ".") €
+                                </h3>
+                            }
+                            else
+                            {
+                                <h3>
+                                    @Html.DisplayFor(modelItem => Model.precio) €
+                                </h3>
+                            }
+
+
+
+                            @if (Request.IsAuthenticated)
+                            {
+                                
+                                Html.RenderAction("MeterCarrito", "Producto", new { id = Model.id});
+                            }
+
+
+                        </td>
+                    </tr>
+                </table>
+
+                @if (Request.IsAuthenticated)
+                {
+                    <table>
+                        <tr>
+                            <td>
+                                @{Html.RenderAction("GuardarDeseado", "Producto", new { id = Model.id }); }
+                            </td>
+                        </tr>
+                    </table>
+                }
+                    <hr />
+                    <table>
+                        <tr>
+                            <td>
+
+                                @if (Request.IsAuthenticated)
+                                {
+                                     Html.RenderAction("Valorar", "Producto", new { id = Model.id });
+                                }
+                                @{ Html.RenderAction("ValoracionesProducto", "Producto", new { id = Model.id });}
+                                </td>
+                        </tr>
+                    </table>
+                </div>
+        </div>
+    </div>
+</div>
+
+<p>
+    <button type="button">@Html.ActionLink("Vuelve a Página de inicio", "Index", "Home")</button>
+</p>

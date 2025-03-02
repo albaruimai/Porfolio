@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+		<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+		  <PropertyGroup>
+		    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+		    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+		    <ProductVersion>8.0.30703</ProductVersion>
+		    <SchemaVersion>2.0</SchemaVersion>
+		    <ProjectGuid>{66C66636-FD6A-4A3F-A7C5-FE88BBA117AF}</ProjectGuid>
+		    <OutputType>Library</OutputType>
+		    <AppDesignerFolder>Properties</AppDesignerFolder>
+		    <RootNamespace>Roll_n_RunGenNHibernate</RootNamespace>
+		    <AssemblyName>Roll_n_RunGenNHibernate</AssemblyName>
+		    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+		    <FileAlignment>512</FileAlignment>
+		    <PublishUrl>publish\</PublishUrl>
+		    <Install>true</Install>
+		    <InstallFrom>Disk</InstallFrom>
+		    <UpdateEnabled>false</UpdateEnabled>
+		    <UpdateMode>Foreground</UpdateMode>
+		    <UpdateInterval>7</UpdateInterval>
+		    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+		    <UpdatePeriodically>false</UpdatePeriodically>
+		    <UpdateRequired>false</UpdateRequired>
+		    <MapFileExtensions>true</MapFileExtensions>
+		    <ApplicationRevision>0</ApplicationRevision>
+		    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+		    <IsWebBootstrapper>false</IsWebBootstrapper>
+		    <UseApplicationTrust>false</UseApplicationTrust>
+		    <BootstrapperEnabled>true</BootstrapperEnabled>
+		  </PropertyGroup>
+		  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+		    <DebugSymbols>true</DebugSymbols>
+		    <DebugType>full</DebugType>
+		    <Optimize>false</Optimize>
+		    <OutputPath>bin\Debug\</OutputPath>
+		    <DefineConstants>DEBUG;TRACE</DefineConstants>
+		    <ErrorReport>prompt</ErrorReport>
+		    <WarningLevel>4</WarningLevel>
+		  </PropertyGroup>
+		  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+		    <DebugType>pdbonly</DebugType>
+		    <Optimize>true</Optimize>
+		    <OutputPath>bin\Release\</OutputPath>
+		    <DefineConstants>TRACE</DefineConstants>
+		    <ErrorReport>prompt</ErrorReport>
+		    <WarningLevel>4</WarningLevel>
+		  </PropertyGroup>
+		<ItemGroup>
+		    <Reference Include="Castle.DynamicProxy2, Version=2.1.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc, processorArchitecture=MSIL">
+		      <SpecificVersion>False</SpecificVersion>
+		      <HintPath>..\Roll_n_RunGenNHibernate\AppLib\Castle.DynamicProxy2.dll</HintPath>
+		    </Reference>
+		    <Reference Include="LinFu.DynamicProxy, Version=1.0.3.14911, Culture=neutral, PublicKeyToken=62a6874124340d6e, processorArchitecture=MSIL">
+		      <SpecificVersion>False</SpecificVersion>
+		      <HintPath>..\Roll_n_RunGenNHibernate\AppLib\LinFu.DynamicProxy.dll</HintPath>
+		    </Reference>
+		    <Reference Include="NHibernate, Version=2.1.2.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+		      <SpecificVersion>False</SpecificVersion>
+		      <HintPath>..\Roll_n_RunGenNHibernate\AppLib\NHibernate.dll</HintPath>
+		    </Reference>
+		    <Reference Include="NHibernate.ByteCode.Castle, Version=2.1.2.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+		      <SpecificVersion>False</SpecificVersion>
+		      <HintPath>..\Roll_n_RunGenNHibernate\AppLib\NHibernate.ByteCode.Castle.dll</HintPath>
+		    </Reference>
+		    <Reference Include="NHibernate.ByteCode.LinFu, Version=2.1.2.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+		      <SpecificVersion>False</SpecificVersion>
+		      <HintPath>..\Roll_n_RunGenNHibernate\AppLib\NHibernate.ByteCode.LinFu.dll</HintPath>
+		    </Reference>
+		    <Reference Include="Newtonsoft.Json, Version=4.0, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+		      <SpecificVersion>False</SpecificVersion>
+		      <HintPath>..\Roll_n_RunGenNHibernate\AppLib\Newtonsoft.Json.dll</HintPath>
+		    </Reference>
+		     <Reference Include="jose-jwt, Version=4.0, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+		      <SpecificVersion>False</SpecificVersion>
+		      <HintPath>..\Roll_n_RunGenNHibernate\AppLib\jose-jwt.dll</HintPath>
+		    </Reference>
+		    <Reference Include="System" />
+		    <Reference Include="System.Core">
+		      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+		    </Reference>
+		    
+		    <Reference Include="System.Transactions" />
+		    <Reference Include="System.Xml.Linq">
+		      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+		    </Reference>
+		    <Reference Include="System.Data.DataSetExtensions">
+		      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+		    </Reference>
+		    <Reference Include="System.Data" />
+		    <Reference Include="System.Xml" />
+		</ItemGroup>
+		
+		<ItemGroup>
+		    <Content Include="..\Roll_n_RunGenNHibernate\AppLib\Antlr3.Runtime.dll" />
+		    <Content Include="..\Roll_n_RunGenNHibernate\AppLib\Castle.DynamicProxy2.dll" />
+		    <Content Include="..\Roll_n_RunGenNHibernate\AppLib\Iesi.Collections.dll" />
+		    <Content Include="..\Roll_n_RunGenNHibernate\AppLib\LinFu.DynamicProxy.dll" />
+		    <Content Include="..\Roll_n_RunGenNHibernate\AppLib\log4net.dll" />
+		    <Content Include="..\Roll_n_RunGenNHibernate\AppLib\NHibernate.ByteCode.Castle.dll" />
+		    <Content Include="..\Roll_n_RunGenNHibernate\AppLib\NHibernate.ByteCode.LinFu.dll" />
+		    <Content Include="..\Roll_n_RunGenNHibernate\AppLib\NHibernate.dll" />
+		    <Content Include="..\Roll_n_RunGenNHibernate\AppLib\nunit.core.dll" />
+		    <Content Include="..\Roll_n_RunGenNHibernate\AppLib\nunit.framework.dll" />
+  		    <Content Include="..\Roll_n_RunGenNHibernate\AppLib\jose-jwt.dll" />
+  		</ItemGroup>
+  		
+		<ItemGroup>
+			<Compile Include="NHibernateHelper.cs" />
+		    <Compile Include="Utils\Util.cs" />
+		    <Compile Include="Exceptions\ModelException.cs"/>
+		    <Compile Include="Exceptions\DataLayerException.cs"/>
+		    
+	<Compile Include="CAD\BasicCAD.cs"/>
+	<Compile Include="CP\BasicCP.cs"/>
+	<Compile Include="EN\Roll_n_Run\UsuarioEN.cs" />
+	<Compile Include="CEN\Roll_n_Run\UsuarioCEN.cs" />
+	<Compile Include="CAD\Roll_n_Run\IUsuarioCAD.cs" />
+	<Compile Include="CAD\Roll_n_Run\UsuarioCAD.cs" />
+	<Compile Include="CP\Roll_n_Run\UsuarioCP.cs" />
+			
+			
+			
+			
+			
+			<Compile Include="CEN\Roll_n_Run\UsuarioCEN_Login.cs" />
+			
+			<Compile Include="CP\Roll_n_Run\UsuarioCP_ConfirmarRecepcion.cs" />
+			
+			
+	<Compile Include="EN\Roll_n_Run\TarjetaEN.cs" />
+	<Compile Include="CEN\Roll_n_Run\TarjetaCEN.cs" />
+	<Compile Include="CAD\Roll_n_Run\ITarjetaCAD.cs" />
+	<Compile Include="CAD\Roll_n_Run\TarjetaCAD.cs" />
+	<Compile Include="CP\Roll_n_Run\TarjetaCP.cs" />
+			
+			
+			
+			
+			
+			
+	<Compile Include="EN\Roll_n_Run\DireccionEN.cs" />
+	<Compile Include="CEN\Roll_n_Run\DireccionCEN.cs" />
+	<Compile Include="CAD\Roll_n_Run\IDireccionCAD.cs" />
+	<Compile Include="CAD\Roll_n_Run\DireccionCAD.cs" />
+	<Compile Include="CP\Roll_n_Run\DireccionCP.cs" />
+			
+			
+			
+			
+			
+			
+	<Compile Include="EN\Roll_n_Run\ProductoEN.cs" />
+	<Compile Include="CEN\Roll_n_Run\ProductoCEN.cs" />
+	<Compile Include="CAD\Roll_n_Run\IProductoCAD.cs" />
+	<Compile Include="CAD\Roll_n_Run\ProductoCAD.cs" />
+	<Compile Include="CP\Roll_n_Run\ProductoCP.cs" />
+			
+			
+			
+			
+			
+			<Compile Include="CEN\Roll_n_Run\ProductoCEN_SumarStock.cs" />
+			
+			<Compile Include="CEN\Roll_n_Run\ProductoCEN_RestarStock.cs" />
+			
+			<Compile Include="CEN\Roll_n_Run\ProductoCEN_HayStock.cs" />
+			
+			
+			
+			
+			
+			
+			<Compile Include="CEN\Roll_n_Run\ProductoCEN_CambiarOferta.cs" />
+			
+			
+			
+	<Compile Include="EN\Roll_n_Run\ValoracionEN.cs" />
+	<Compile Include="CEN\Roll_n_Run\ValoracionCEN.cs" />
+	<Compile Include="CAD\Roll_n_Run\IValoracionCAD.cs" />
+	<Compile Include="CAD\Roll_n_Run\ValoracionCAD.cs" />
+	<Compile Include="CP\Roll_n_Run\ValoracionCP.cs" />
+			<Compile Include="CP\Roll_n_Run\ValoracionCP_New_.cs" />
+			
+			<Compile Include="CP\Roll_n_Run\ValoracionCP_Modify.cs" />
+			
+			<Compile Include="CP\Roll_n_Run\ValoracionCP_Destroy.cs" />
+			
+			
+			
+			
+			
+	<Compile Include="EN\Roll_n_Run\PedidoEN.cs" />
+	<Compile Include="CEN\Roll_n_Run\PedidoCEN.cs" />
+	<Compile Include="CAD\Roll_n_Run\IPedidoCAD.cs" />
+	<Compile Include="CAD\Roll_n_Run\PedidoCAD.cs" />
+	<Compile Include="CP\Roll_n_Run\PedidoCP.cs" />
+			<Compile Include="CEN\Roll_n_Run\PedidoCEN_New_.cs" />
+			
+			
+			
+			
+			
+			
+			<Compile Include="CEN\Roll_n_Run\PedidoCEN_CambiarEstado.cs" />
+			
+			
+			<Compile Include="CP\Roll_n_Run\PedidoCP_DevolverPedido.cs" />
+			
+	<Compile Include="EN\Roll_n_Run\LineaPedidoEN.cs" />
+	<Compile Include="CEN\Roll_n_Run\LineaPedidoCEN.cs" />
+	<Compile Include="CAD\Roll_n_Run\ILineaPedidoCAD.cs" />
+	<Compile Include="CAD\Roll_n_Run\LineaPedidoCAD.cs" />
+	<Compile Include="CP\Roll_n_Run\LineaPedidoCP.cs" />
+			<Compile Include="CP\Roll_n_Run\LineaPedidoCP_New_.cs" />
+			
+			<Compile Include="CP\Roll_n_Run\LineaPedidoCP_Modify.cs" />
+			
+			<Compile Include="CP\Roll_n_Run\LineaPedidoCP_Destroy.cs" />
+			
+			
+			
+			
+	<Compile Include="EN\Roll_n_Run\FacturaEN.cs" />
+	<Compile Include="CEN\Roll_n_Run\FacturaCEN.cs" />
+	<Compile Include="CAD\Roll_n_Run\IFacturaCAD.cs" />
+	<Compile Include="CAD\Roll_n_Run\FacturaCAD.cs" />
+	<Compile Include="CP\Roll_n_Run\FacturaCP.cs" />
+			<Compile Include="CP\Roll_n_Run\FacturaCP_New_.cs" />
+			
+			
+			
+			
+			
+	<Compile Include="EN\Roll_n_Run\SubforoEN.cs" />
+	<Compile Include="CEN\Roll_n_Run\SubforoCEN.cs" />
+	<Compile Include="CAD\Roll_n_Run\ISubforoCAD.cs" />
+	<Compile Include="CAD\Roll_n_Run\SubforoCAD.cs" />
+	<Compile Include="CP\Roll_n_Run\SubforoCP.cs" />
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+	<Compile Include="EN\Roll_n_Run\EntradaEN.cs" />
+	<Compile Include="CEN\Roll_n_Run\EntradaCEN.cs" />
+	<Compile Include="CAD\Roll_n_Run\IEntradaCAD.cs" />
+	<Compile Include="CAD\Roll_n_Run\EntradaCAD.cs" />
+	<Compile Include="CP\Roll_n_Run\EntradaCP.cs" />
+			<Compile Include="CP\Roll_n_Run\EntradaCP_New_.cs" />
+			
+			
+			<Compile Include="CP\Roll_n_Run\EntradaCP_Destroy.cs" />
+			
+			
+			
+			<Compile Include="CP\Roll_n_Run\EntradaCP_InsertarProducto.cs" />
+			
+			
+			
+	<Compile Include="EN\Roll_n_Run\DevolucionEN.cs" />
+	<Compile Include="CEN\Roll_n_Run\DevolucionCEN.cs" />
+	<Compile Include="CAD\Roll_n_Run\IDevolucionCAD.cs" />
+	<Compile Include="CAD\Roll_n_Run\DevolucionCAD.cs" />
+	<Compile Include="CP\Roll_n_Run\DevolucionCP.cs" />
+			
+			
+			
+			
+			
+	<Compile Include="EN\Roll_n_Run\PreguntaFrecuenteEN.cs" />
+	<Compile Include="CEN\Roll_n_Run\PreguntaFrecuenteCEN.cs" />
+	<Compile Include="CAD\Roll_n_Run\IPreguntaFrecuenteCAD.cs" />
+	<Compile Include="CAD\Roll_n_Run\PreguntaFrecuenteCAD.cs" />
+	<Compile Include="CP\Roll_n_Run\PreguntaFrecuenteCP.cs" />
+			
+			
+			
+			
+			
+	<Compile Include="Enumerated\Roll_n_Run\EstadoEnum.cs" />
+	<Compile Include="Enumerated\Roll_n_Run\PagoEnum.cs" />
+	<Compile Include="Enumerated\Roll_n_Run\Tipo_productoEnum.cs" />
+	<Compile Include="Enumerated\Roll_n_Run\RolEnum.cs" />
+	<Compile Include="Enumerated\Roll_n_Run\Motivo_DevolucionEnum.cs" />
+	
+	
+
+		    
+	
+
+		    <Compile Include="Properties\AssemblyInfo.cs" />
+		    <Compile Include="Properties\Settings.Designer.cs">
+		      <AutoGen>True</AutoGen>
+		      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+		      <DependentUpon>Settings.settings</DependentUpon>
+		    </Compile>
+		  </ItemGroup>
+		  <ItemGroup>
+		  
+	<EmbeddedResource Include="Mappings\Roll_n_Run\usuario.hbm.xml" />
+	<EmbeddedResource Include="Mappings\Roll_n_Run\tarjeta.hbm.xml" />
+	<EmbeddedResource Include="Mappings\Roll_n_Run\direccion.hbm.xml" />
+	<EmbeddedResource Include="Mappings\Roll_n_Run\producto.hbm.xml" />
+	<EmbeddedResource Include="Mappings\Roll_n_Run\valoracion.hbm.xml" />
+	<EmbeddedResource Include="Mappings\Roll_n_Run\pedido.hbm.xml" />
+	<EmbeddedResource Include="Mappings\Roll_n_Run\lineapedido.hbm.xml" />
+	<EmbeddedResource Include="Mappings\Roll_n_Run\factura.hbm.xml" />
+	<EmbeddedResource Include="Mappings\Roll_n_Run\subforo.hbm.xml" />
+	<EmbeddedResource Include="Mappings\Roll_n_Run\entrada.hbm.xml" />
+	<EmbeddedResource Include="Mappings\Roll_n_Run\devolucion.hbm.xml" />
+	<EmbeddedResource Include="Mappings\Roll_n_Run\preguntafrecuente.hbm.xml" />
+	
+	
+
+		  </ItemGroup>
+		  <ItemGroup>
+		    <Content Include="hibernate.cfg.xml">
+		      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		    </Content>
+		  </ItemGroup>
+		  <ItemGroup>
+		    <None Include="app.config" />
+		    <None Include="Properties\Settings.settings">
+		      <Generator>SettingsSingleFileGenerator</Generator>
+		      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+		    </None>
+		        <None Include="Resources\xsd\nhibernate-configuration.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Resources\xsd\nhibernate-mapping.xsd">
+      <SubType>Designer</SubType>
+    </None>
+		  </ItemGroup>
+	 	
+		
+	
+		<ItemGroup>
+		    <ProjectReference Include="..\APIExterna\APIExterna.csproj">
+		      <Project>{4ade35c8-a0c3-49da-9e1a-11a53ca19214}</Project>
+		      <Name>APIExterna</Name>
+		    </ProjectReference>
+	    </ItemGroup>
+	    
+		  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+		  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+		       Other similar extension points exist, see Microsoft.Common.targets.
+		  <Target Name="BeforeBuild">
+		  </Target>
+		  <Target Name="AfterBuild">
+		  </Target>
+		  -->
+		</Project>

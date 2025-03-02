@@ -1,0 +1,117 @@
+﻿@model RollNRunWeb.Models.UsuarioViewModel
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Mi perfil</h2>
+
+
+<table class="table">
+
+    <tr>
+        <td>
+            <button type="button" style="margin-left: 15px">@Html.ActionLink("Ver mis direcciones", "Index", "Direccion")</button>
+        </td>
+    </tr>
+
+    <tr>
+        <td>
+            <button type="button" style="margin-left: 15px">@Html.ActionLink("Ver mis tarjetas", "Index", "Tarjeta")</button>
+        </td>
+    </tr>
+
+
+    <tr>
+        <td>
+            <button type="button" style="margin-left: 15px">@Html.ActionLink("Ver mis entradas", "Entradas", "Entrada")</button>
+        </td>
+    </tr>
+
+
+    <tr>
+        <td>
+            <button type="button" style="margin-left: 15px">@Html.ActionLink("Ver subforos seguidos", "Seguidos", "Subforo")</button>
+        </td>
+    </tr>
+
+    <tr>
+        <td>
+            <div>
+
+                <hr />
+                <dl class="dl-horizontal">
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Email)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Email)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Password)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Password)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.alias)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.alias)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.nombre)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.nombre)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.apellidos)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.apellidos)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.telefono)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.telefono)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.rol)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.rol)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.imagen_perfil)
+                    </dt>
+
+                    <dd>
+                        <img class="img-responsive" width="100" src="@Html.DisplayFor(model => model.imagen_perfil)" />
+                    </dd>
+
+                </dl>
+            </div>
+            <p>
+                @Html.ActionLink("Editar", "Edit", new { id = Model.id })
+            </p>
+        </td>
+    </tr>
+
+</table>

@@ -1,0 +1,130 @@
+C:\Users\MSI\Desktop\Cosas de Estudiar\3o\DSM\Cosas que me consumen recursos en el PC\GitHub_Movidas\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\hibernate.cfg.xml
+C:\Users\MSI\Desktop\Cosas de Estudiar\3o\DSM\Cosas que me consumen recursos en el PC\GitHub_Movidas\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Roll_n_RunGenNHibernate.dll.config
+C:\Users\MSI\Desktop\Cosas de Estudiar\3o\DSM\Cosas que me consumen recursos en el PC\GitHub_Movidas\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Roll_n_RunGenNHibernate.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\3o\DSM\Cosas que me consumen recursos en el PC\GitHub_Movidas\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Roll_n_RunGenNHibernate.pdb
+C:\Users\MSI\Desktop\Cosas de Estudiar\3o\DSM\Cosas que me consumen recursos en el PC\GitHub_Movidas\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Castle.DynamicProxy2.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\3o\DSM\Cosas que me consumen recursos en el PC\GitHub_Movidas\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\jose-jwt.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\3o\DSM\Cosas que me consumen recursos en el PC\GitHub_Movidas\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\LinFu.DynamicProxy.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\3o\DSM\Cosas que me consumen recursos en el PC\GitHub_Movidas\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\3o\DSM\Cosas que me consumen recursos en el PC\GitHub_Movidas\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\3o\DSM\Cosas que me consumen recursos en el PC\GitHub_Movidas\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\NHibernate.ByteCode.LinFu.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\3o\DSM\Cosas que me consumen recursos en el PC\GitHub_Movidas\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\NHibernate.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\3o\DSM\Cosas que me consumen recursos en el PC\GitHub_Movidas\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Iesi.Collections.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\3o\DSM\Cosas que me consumen recursos en el PC\GitHub_Movidas\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Antlr3.Runtime.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\3o\DSM\Cosas que me consumen recursos en el PC\GitHub_Movidas\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\log4net.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\3o\DSM\Cosas que me consumen recursos en el PC\GitHub_Movidas\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\obj\Debug\Roll_n_RunGenNHibernate.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Cosas de Estudiar\3o\DSM\Cosas que me consumen recursos en el PC\GitHub_Movidas\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\obj\Debug\Roll_n_RunGenNHibernate.csproj.CopyComplete
+C:\Users\MSI\Desktop\Cosas de Estudiar\3o\DSM\Cosas que me consumen recursos en el PC\GitHub_Movidas\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\obj\Debug\Roll_n_RunGenNHibernate.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\3o\DSM\Cosas que me consumen recursos en el PC\GitHub_Movidas\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\obj\Debug\Roll_n_RunGenNHibernate.pdb
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\obj\Debug\Roll_n_RunGenNHibernate.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\obj\Debug\Roll_n_RunGenNHibernate.pdb
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\hibernate.cfg.xml
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Roll_n_RunGenNHibernate.dll.config
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Roll_n_RunGenNHibernate.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Roll_n_RunGenNHibernate.pdb
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Castle.DynamicProxy2.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\jose-jwt.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\LinFu.DynamicProxy.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Newtonsoft.Json.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\NHibernate.ByteCode.Castle.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\NHibernate.ByteCode.LinFu.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\NHibernate.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Iesi.Collections.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Antlr3.Runtime.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\log4net.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\Roll_n_RunGenNHibernate\obj\Debug\Roll_n_RunGenNHibernate.csproj.CoreCompileInputs.cache
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\Roll_n_RunGenNHibernate\obj\Debug\Roll_n_RunGenNHibernate.csproj.CopyComplete
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\Roll_n_RunGenNHibernate\obj\Debug\Roll_n_RunGenNHibernate.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\Roll_n_RunGenNHibernate\obj\Debug\Roll_n_RunGenNHibernate.pdb
+F:\YandexDisk\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\Diseño de Sistemas Multimedia\Practicas\DSM2022-23\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\hibernate.cfg.xml
+F:\YandexDisk\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\Diseño de Sistemas Multimedia\Practicas\DSM2022-23\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Roll_n_RunGenNHibernate.dll.config
+F:\YandexDisk\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\Diseño de Sistemas Multimedia\Practicas\DSM2022-23\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Roll_n_RunGenNHibernate.dll
+F:\YandexDisk\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\Diseño de Sistemas Multimedia\Practicas\DSM2022-23\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Roll_n_RunGenNHibernate.pdb
+F:\YandexDisk\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\Diseño de Sistemas Multimedia\Practicas\DSM2022-23\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Castle.DynamicProxy2.dll
+F:\YandexDisk\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\Diseño de Sistemas Multimedia\Practicas\DSM2022-23\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\jose-jwt.dll
+F:\YandexDisk\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\Diseño de Sistemas Multimedia\Practicas\DSM2022-23\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\LinFu.DynamicProxy.dll
+F:\YandexDisk\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\Diseño de Sistemas Multimedia\Practicas\DSM2022-23\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Newtonsoft.Json.dll
+F:\YandexDisk\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\Diseño de Sistemas Multimedia\Practicas\DSM2022-23\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\NHibernate.ByteCode.Castle.dll
+F:\YandexDisk\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\Diseño de Sistemas Multimedia\Practicas\DSM2022-23\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\NHibernate.ByteCode.LinFu.dll
+F:\YandexDisk\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\Diseño de Sistemas Multimedia\Practicas\DSM2022-23\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\NHibernate.dll
+F:\YandexDisk\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\Diseño de Sistemas Multimedia\Practicas\DSM2022-23\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Iesi.Collections.dll
+F:\YandexDisk\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\Diseño de Sistemas Multimedia\Practicas\DSM2022-23\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Antlr3.Runtime.dll
+F:\YandexDisk\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\Diseño de Sistemas Multimedia\Practicas\DSM2022-23\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\log4net.dll
+F:\YandexDisk\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\Diseño de Sistemas Multimedia\Practicas\DSM2022-23\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\obj\Debug\Roll_n_RunGenNHibernate.csproj.CoreCompileInputs.cache
+F:\YandexDisk\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\Diseño de Sistemas Multimedia\Practicas\DSM2022-23\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\obj\Debug\Roll_n_RunGenNHibernate.csproj.CopyComplete
+F:\YandexDisk\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\Diseño de Sistemas Multimedia\Practicas\DSM2022-23\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\obj\Debug\Roll_n_RunGenNHibernate.dll
+F:\YandexDisk\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\Diseño de Sistemas Multimedia\Practicas\DSM2022-23\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\obj\Debug\Roll_n_RunGenNHibernate.pdb
+C:\Users\Samuel\Desktop\Universidad\5o año\Diseño de Sistemas Multimedia\practica\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\obj\Debug\Roll_n_RunGenNHibernate.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Desktop\Universidad\5o año\Diseño de Sistemas Multimedia\practica\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\obj\Debug\Roll_n_RunGenNHibernate.dll
+C:\Users\Samuel\Desktop\Universidad\5o año\Diseño de Sistemas Multimedia\practica\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\obj\Debug\Roll_n_RunGenNHibernate.pdb
+C:\Users\Samuel\Desktop\Universidad\5o año\Diseño de Sistemas Multimedia\practica\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\hibernate.cfg.xml
+C:\Users\Samuel\Desktop\Universidad\5o año\Diseño de Sistemas Multimedia\practica\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Roll_n_RunGenNHibernate.dll.config
+C:\Users\Samuel\Desktop\Universidad\5o año\Diseño de Sistemas Multimedia\practica\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Roll_n_RunGenNHibernate.dll
+C:\Users\Samuel\Desktop\Universidad\5o año\Diseño de Sistemas Multimedia\practica\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Roll_n_RunGenNHibernate.pdb
+C:\Users\Samuel\Desktop\Universidad\5o año\Diseño de Sistemas Multimedia\practica\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Castle.DynamicProxy2.dll
+C:\Users\Samuel\Desktop\Universidad\5o año\Diseño de Sistemas Multimedia\practica\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\jose-jwt.dll
+C:\Users\Samuel\Desktop\Universidad\5o año\Diseño de Sistemas Multimedia\practica\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\LinFu.DynamicProxy.dll
+C:\Users\Samuel\Desktop\Universidad\5o año\Diseño de Sistemas Multimedia\practica\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Samuel\Desktop\Universidad\5o año\Diseño de Sistemas Multimedia\practica\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\Users\Samuel\Desktop\Universidad\5o año\Diseño de Sistemas Multimedia\practica\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\NHibernate.ByteCode.LinFu.dll
+C:\Users\Samuel\Desktop\Universidad\5o año\Diseño de Sistemas Multimedia\practica\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\NHibernate.dll
+C:\Users\Samuel\Desktop\Universidad\5o año\Diseño de Sistemas Multimedia\practica\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Iesi.Collections.dll
+C:\Users\Samuel\Desktop\Universidad\5o año\Diseño de Sistemas Multimedia\practica\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Samuel\Desktop\Universidad\5o año\Diseño de Sistemas Multimedia\practica\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\log4net.dll
+C:\Users\Samuel\Desktop\Universidad\5o año\Diseño de Sistemas Multimedia\practica\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\obj\Debug\Roll_n_RunGenNHibernate.csproj.CopyComplete
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\hibernate.cfg.xml
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Roll_n_RunGenNHibernate.dll.config
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Roll_n_RunGenNHibernate.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Roll_n_RunGenNHibernate.pdb
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Castle.DynamicProxy2.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\jose-jwt.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\LinFu.DynamicProxy.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Newtonsoft.Json.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\NHibernate.ByteCode.Castle.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\NHibernate.ByteCode.LinFu.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\NHibernate.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Iesi.Collections.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Antlr3.Runtime.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\log4net.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\obj\Debug\Roll_n_RunGenNHibernate.csproj.CoreCompileInputs.cache
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\obj\Debug\Roll_n_RunGenNHibernate.csproj.CopyComplete
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\obj\Debug\Roll_n_RunGenNHibernate.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\obj\Debug\Roll_n_RunGenNHibernate.pdb
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\hibernate.cfg.xml
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Roll_n_RunGenNHibernate.dll.config
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Roll_n_RunGenNHibernate.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Roll_n_RunGenNHibernate.pdb
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Castle.DynamicProxy2.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\jose-jwt.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\LinFu.DynamicProxy.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\NHibernate.ByteCode.LinFu.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\NHibernate.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Iesi.Collections.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Antlr3.Runtime.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\log4net.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\obj\Debug\Roll_n_RunGenNHibernate.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\obj\Debug\Roll_n_RunGenNHibernate.csproj.CopyComplete
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\obj\Debug\Roll_n_RunGenNHibernate.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\obj\Debug\Roll_n_RunGenNHibernate.pdb
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\obj\Debug\Roll_n_RunGenNHibernate.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\hibernate.cfg.xml
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Roll_n_RunGenNHibernate.dll.config
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Roll_n_RunGenNHibernate.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Roll_n_RunGenNHibernate.pdb
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Castle.DynamicProxy2.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\jose-jwt.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\LinFu.DynamicProxy.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\NHibernate.ByteCode.LinFu.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\NHibernate.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Iesi.Collections.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\bin\Debug\log4net.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\obj\Debug\Roll_n_RunGenNHibernate.csproj.CopyComplete
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\Roll_n_RunGenNHibernate\obj\Debug\Roll_n_RunGenNHibernate.csproj.AssemblyReference.cache
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\obj\Debug\Roll_n_RunGenNHibernate.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\obj\Debug\Roll_n_RunGenNHibernate.csproj.AssemblyReference.cache
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\Roll_n_RunGenNHibernate\obj\Debug\Roll_n_RunGenNHibernate.csproj.AssemblyReference.cache

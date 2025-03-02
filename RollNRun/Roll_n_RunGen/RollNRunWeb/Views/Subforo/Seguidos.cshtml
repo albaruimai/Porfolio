@@ -1,0 +1,39 @@
+﻿@model IEnumerable<RollNRunWeb.Models.SubforoViewModel>
+@{
+    ViewBag.Title = "Seguidos";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Mis Subforos Seguidos</h2>
+
+<div style="display: grid;
+       grid-template-columns: repeat(auto-fill,minmax(250px,1fr));
+       grid-gap: .5em;">
+    @foreach (var item in Model)
+    {
+        <article style="
+        background-color: saddlebrown;
+        color: darkorange;
+        border: 1px solid darkorange;
+        padding: .5em;
+        vertical-align: top;">
+            <h4>
+                @Html.ActionLink(item.Titulo, "Detalles", new { id = item.id })
+            </h4>
+            <p>
+                Autor:
+                @Html.DisplayFor(modelItem => item.Autor)
+            </p>
+            <p>
+                @Html.DisplayFor(modelItem => item.Fecha)
+            </p>
+            <p>
+                @Html.DisplayFor(modelItem => item.Descripcion)
+            </p>
+            <p>
+                Seguidores:
+                @Html.DisplayFor(modelItem => item.Seguidores)
+            </p>
+        </article>
+    }
+</div>

@@ -1,0 +1,23 @@
+﻿@model RollNRunWeb.Models.ProductoViewModel
+
+@{
+    ViewBag.Title = "QuitarDeseado";
+}
+<div>
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        <br />
+        <br />
+        <br />
+        <br />
+        <h4>¿Estás seguro de que quiéres quitar este producto de tu Lista de Deseados?</h4>
+        <div class="form-actions no-color">
+            <input type="submit" value="Quitar de Deseados" class="btn btn-default" />
+        </div>
+        <br />
+        <hr />
+        <br />
+        <a href="https://localhost:44368/Producto/ListaDeseados">Volver a tu Lista de Deseados</a>
+    }
+</div>

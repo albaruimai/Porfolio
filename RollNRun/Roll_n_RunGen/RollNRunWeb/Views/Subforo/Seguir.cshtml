@@ -1,0 +1,10 @@
+﻿@model RollNRunWeb.Models.SubforoViewModel
+
+@{
+    ViewBag.Title = "Seguir";
+}
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        <input type="submit" value="Seguir" class="btn btn-default"/>
+    }

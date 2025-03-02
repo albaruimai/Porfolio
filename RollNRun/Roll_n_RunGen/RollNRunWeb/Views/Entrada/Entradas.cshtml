@@ -1,0 +1,19 @@
+﻿@model IEnumerable<RollNRunWeb.Models.EntradaViewModel>
+
+@{
+    ViewBag.Title = "Comentarios";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Mis Entradas</h2>
+
+@foreach (var item in Model)
+{
+    <h3>
+        @Html.DisplayFor(modelItem => item.Subforo)
+    </h3>
+
+    <h4>
+        @Html.DisplayFor(modelItem => item.Texto)
+    </h4>
+}

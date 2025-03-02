@@ -1,0 +1,47 @@
+﻿@model IEnumerable<RollNRunWeb.Models.ProductoViewModel>
+@{
+    ViewBag.Title = "Bienvenido";
+}
+
+<section>
+    <div>
+        <h1>@ViewBag.Title</h1>
+    </div>
+</section>
+
+<hr />
+
+@{Html.RenderAction("Ofertas", "Home"); }
+
+<hr />
+
+<div style="display: grid;
+       grid-template-columns: repeat(auto-fill,minmax(250px,1fr));
+       grid-gap: .5em;">
+    @foreach (var item in Model)
+    {
+    <article style=" background-color: lightgray; padding: .5em; vertical-align: top; text-align: center;">
+
+        <img src="@Html.DisplayFor(modelItem => item.imagen)" alt="Sample Image" width="200" />
+        
+        <h4>@Html.ActionLink(item.nombre, "Details", "Producto", routeValues: new { id = item.id }, htmlAttributes: null)</h4>
+
+        @{if (item.oferta > 0)
+            {
+                double sale = Double.Parse(item.precio.Replace(".", ",")) - (Double.Parse(item.precio.Replace(".", ",")) * (item.oferta / 100));
+                sale = (double)(Math.Round((double)sale, 2));
+
+                <br />
+                <del>@Html.DisplayFor(modelItem => item.precio)€</del>
+                <p>@sale.ToString().Replace(",", ".") €</p>
+
+
+            }
+            else
+            { <br />
+                <p> @Html.DisplayFor(modelItem => item.precio)€</p>
+            }
+        }
+    </article>
+    }
+</div>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+		                   assembly="Roll_n_RunGenNHibernate"
+		                   namespace="Roll_n_RunGenNHibernate.EN.Roll_n_Run">
+		    
+		    
+			
+				<class name="ProductoEN" table="Producto"> 
+				  	
+						<id name="Id" column="idProducto" type="integer"> 
+							<generator class="hilo"/>
+						</id>
+			
+					
+					<property name="Nombre" type="string"> 
+						<column name="nombre"  not-null="true"/>
+					</property>
+					<property name="Marca" type="string"> 
+						<column name="marca"  not-null="true"/>
+					</property>
+					<property name="Stock" type="integer"> 
+						<column name="stock"  not-null="true"/>
+					</property>
+					<property name="Precio" type="double"> 
+						<column name="precio"  not-null="true"/>
+					</property>
+					<property name="Imagen" type="string"> 
+						<column name="imagen"  not-null="true"/>
+					</property>
+					<property name="Descripcion" type="string"> 
+						<column name="descripcion"  not-null="true"/>
+					</property>
+					<property name="Val_media" type="double"> 
+						<column name="val_media"  not-null="true"/>
+					</property>
+					<property name="Tipo" > 
+						<column name="tipo"  not-null="true"/>
+					</property>
+					<property name="Oferta" type="double"> 
+						<column name="oferta"  not-null="true"/>
+					</property>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		  			
+						<bag name="LineaPedido" >
+							<key>
+							
+								
+								<column name="FK_idProducto_idProducto"/>
+					      	</key>
+							<one-to-many class="Roll_n_RunGenNHibernate.EN.Roll_n_Run.LineaPedidoEN"/>
+					    </bag>
+					
+			
+		  			
+						<bag name="Valoracion" >
+							<key>
+							
+								
+								<column name="FK_idProducto_idProducto"/>
+					      	</key>
+							<one-to-many class="Roll_n_RunGenNHibernate.EN.Roll_n_Run.ValoracionEN"/>
+					    </bag>
+					
+			
+			
+		  			
+						<bag name="Usuarios" table="[producto_usuario]"  >
+							<key>
+								
+									<column name="FK_idProducto_idProducto"/> 
+							</key>
+      						<many-to-many class="Roll_n_RunGenNHibernate.EN.Roll_n_Run.UsuarioEN">
+									<column name="FK_idUsuario_idUsuario"/> 
+      						</many-to-many>
+    					</bag>
+			
+			
+		  			
+						<bag name="Entrada" >
+							<key>
+							
+								
+								<column name="FK_idProducto_idProducto"/>
+					      	</key>
+							<one-to-many class="Roll_n_RunGenNHibernate.EN.Roll_n_Run.EntradaEN"/>
+					    </bag>
+					
+			
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+		
+		 </class>	
+		  
+		  <query name="ProductoENReadAllHQL">from ProductoEN</query>
+		  <query name="ProductoENbuscarPrecioHQL"><![CDATA[select prod FROM ProductoEN as prod where prod.Precio <= :p_precio]]></query>
+		  <query name="ProductoENbuscarNombreHQL"><![CDATA[select prod FROM ProductoEN as prod where prod.Nombre like '%' + :p_nombre + '%'  or prod.Descripcion like '%' + :p_nombre + '%' ]]></query>
+		  <query name="ProductoENbuscarTipoHQL"><![CDATA[select prod FROM ProductoEN as prod where prod.Tipo = :p_tipo]]></query>
+		  <query name="ProductoENgetProductosDeseadosUsuarioHQL"><![CDATA[select prod FROM ProductoEN as prod inner join prod.Usuarios as usu where usu.Id = :p_usuario]]></query>
+		  <query name="ProductoENbuscarOfertasHQL"><![CDATA[select prod FROM ProductoEN as prod where prod.Oferta > 0]]></query>
+		</hibernate-mapping>
+	

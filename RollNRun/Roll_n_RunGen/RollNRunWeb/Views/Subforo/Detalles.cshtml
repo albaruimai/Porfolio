@@ -1,0 +1,73 @@
+﻿@model RollNRunWeb.Models.SubforoViewModel
+
+@{
+    ViewBag.Title = "Detalles";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@Html.DisplayFor(model => model.Titulo)</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Autor:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Autor)
+        </dd>
+
+        <dt>
+            Fecha de creación:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Fecha)
+        </dd>
+
+        @if (Request.IsAuthenticated)
+        {
+            <dt>
+                @{Html.RenderAction("Seguir", "Subforo", new { id = Model.id }); }
+            </dt>
+            <dd></dd>
+
+            <dt>
+                @Html.ActionLink("Dejar de Seguir", "DejarSeguir", new { id = Model.id })
+            </dt>
+            <dd></dd>
+        }
+
+        <dt>
+            Seguidores:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Seguidores)
+        </dd>
+
+        <dt>
+            Descripción:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Descripcion)
+        </dd>
+
+        @if (Request.IsAuthenticated)
+        {
+            <dd>
+                @{ Html.RenderAction("Comentar", "Subforo", new { id = Model.id });}
+            </dd>
+        }
+
+            <dd>
+                @{ Html.RenderAction("Comentarios", "Subforo", new { id = Model.id });}
+            </dd>
+
+        </dl>
+</div>
+<div>
+    @Html.ActionLink("Volver al foro", "Indice")
+</div>

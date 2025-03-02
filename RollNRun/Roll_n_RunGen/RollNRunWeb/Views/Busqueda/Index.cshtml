@@ -1,0 +1,70 @@
+﻿@model IEnumerable<RollNRunWeb.Models.ProductoViewModel>
+<br />
+<hr />
+<div style="display: grid; grid-template-columns: repeat(auto-fill,minmax(250px,1fr)); grid-gap: .5em;">
+    
+    <h4>Búsqueda por nombre</h4>
+    <form method="get">
+            <label for="nombre">Nombre:</label><br>
+            <input type="text" id="nombre" name="nombre"><br>
+            <input type="submit" value="Buscar" class="btn btn-default" />
+    </form>
+
+
+    <h4>Búsqueda por tipo</h4>
+    <form method="get">
+            <label for="tipo">Tipo:</label><br>
+            <select name="tipo">
+                <option value="1">dado</option>
+                <option value="2">libro</option>
+                <option value="3">figura</option>
+                <option value="4">juego_mesa</option>
+                <option value="5">juego_cartas</option>
+                <option value="6">otros</option>
+            </select><br>
+            <input type="submit" value="Buscar" class="btn btn-default" />
+    </form>
+
+    <h4>Búsqueda por precio</h4>
+
+    <form method="get">
+        <label for="precio">Precio máximo:</label><br>
+        <input type="number" id="precio" name="precio"><br>
+        <input type="submit" value="Buscar" class="btn btn-default" />
+    </form>
+</div>
+
+<hr />
+
+<div style="display: grid;
+       grid-template-columns: repeat(auto-fill,minmax(250px,1fr));
+       grid-gap: .5em;">
+
+
+    @foreach (var item in Model)
+    {
+        <article style=" background-color: lightgray; padding: .5em; vertical-align: top; text-align: center;">
+
+            <img src="@Html.DisplayFor(modelItem => item.imagen)" alt="Sample Image" width="200" />
+
+            <h4>@Html.ActionLink(item.nombre, "Details", "Producto", routeValues: new { id = item.id }, htmlAttributes: null)</h4>
+
+            @{if (item.oferta > 0)
+                {
+                    double sale = Double.Parse(item.precio.Replace(".", ",")) - (Double.Parse(item.precio.Replace(".", ",")) * (item.oferta / 100));
+                    sale = (double)(Math.Round((double)sale, 2));
+
+                    <br />
+                    <del>@Html.DisplayFor(modelItem => item.precio)€</del>
+                    <p>@sale.ToString().Replace(",", ".") €</p>
+
+
+                }
+                else
+                { <br />
+                    <p> @Html.DisplayFor(modelItem => item.precio)€</p>
+                }
+            }
+        </article>
+    }
+</div>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+		                   assembly="Roll_n_RunGenNHibernate"
+		                   namespace="Roll_n_RunGenNHibernate.EN.Roll_n_Run">
+		    
+		    
+			
+				<class name="PedidoEN" table="Pedido"> 
+				  	
+						<id name="Id" column="idPedido" type="integer"> 
+							<generator class="hilo"/>
+						</id>
+			
+					
+					<property name="Fecha" type="date"> 
+						<column name="fecha"  not-null="true"/>
+					</property>
+					<property name="Total" type="double"> 
+						<column name="total"  not-null="true"/>
+					</property>
+					<property name="Cantidad" type="integer"> 
+						<column name="cantidad"  not-null="true"/>
+					</property>
+					<property name="MetodoPago" > 
+						<column name="metodoPago"  not-null="true"/>
+					</property>
+					<property name="Estado" > 
+						<column name="estado"  not-null="true"/>
+					</property>
+			
+			
+			
+			
+			
+			
+			
+			
+		  			
+						<many-to-one name="Usuario" class="Roll_n_RunGenNHibernate.EN.Roll_n_Run.UsuarioEN" >	
+								<column name="FK_idUsuario_idUsuario"/> 
+						</many-to-one>
+											 					
+			
+		  			
+					
+							<many-to-one name="Factura" class="Roll_n_RunGenNHibernate.EN.Roll_n_Run.FacturaEN" >
+								<column name="FK_idFactura_idFactura"/> 
+        					</many-to-one>
+					 
+						
+			
+		  			
+						<bag name="LineaPedido" cascade="delete">
+							<key>
+							
+								
+								<column name="FK_idPedido_idPedido"/>
+					      	</key>
+							<one-to-many class="Roll_n_RunGenNHibernate.EN.Roll_n_Run.LineaPedidoEN"/>
+					    </bag>
+					
+			
+		  			
+					
+							<many-to-one name="Devolucion" class="Roll_n_RunGenNHibernate.EN.Roll_n_Run.DevolucionEN" >
+								<column name="FK_idDevolucion_idDevolucion"/> 
+        					</many-to-one>
+					 
+						
+			
+		  			
+						<many-to-one name="Direccion" class="Roll_n_RunGenNHibernate.EN.Roll_n_Run.DireccionEN" >	
+								<column name="FK_idDireccion_idDireccion"/> 
+						</many-to-one>
+											 					
+			
+		  			
+						<many-to-one name="Tarjeta" class="Roll_n_RunGenNHibernate.EN.Roll_n_Run.TarjetaEN" >	
+								<column name="FK_idTarjeta_idTarjeta"/> 
+						</many-to-one>
+											 					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+		
+		 </class>	
+		  
+		  <query name="PedidoENReadAllHQL">from PedidoEN</query>
+		  <query name="PedidoENgetPedidosEstadoHQL"><![CDATA[select ped FROM PedidoEN as ped where ped.Estado = :p_estado]]></query>
+		  <query name="PedidoENgetPedidosUsuarioHQL"><![CDATA[select ped FROM PedidoEN as ped inner join ped.Usuario as usu where usu.Id = :p_usuario]]></query>
+		</hibernate-mapping>
+	

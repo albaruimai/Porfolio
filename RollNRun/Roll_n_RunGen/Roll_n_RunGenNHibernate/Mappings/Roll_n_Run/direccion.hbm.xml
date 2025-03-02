@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+		                   assembly="Roll_n_RunGenNHibernate"
+		                   namespace="Roll_n_RunGenNHibernate.EN.Roll_n_Run">
+		    
+		    
+			
+				<class name="DireccionEN" table="Direccion"> 
+				  	
+						<id name="Id" column="idDireccion" type="integer"> 
+							<generator class="hilo"/>
+						</id>
+			
+					
+					<property name="Provincia" type="string"> 
+						<column name="provincia"  not-null="true"/>
+					</property>
+					<property name="Localidad" type="string"> 
+						<column name="localidad"  not-null="true"/>
+					</property>
+					<property name="Cp" type="string"> 
+						<column name="cp"  not-null="true"/>
+					</property>
+					<property name="Calle" type="string"> 
+						<column name="calle"  not-null="true"/>
+					</property>
+			
+			
+			
+			
+			
+			
+			
+		  			
+						<many-to-one name="Usuario" class="Roll_n_RunGenNHibernate.EN.Roll_n_Run.UsuarioEN" >	
+								<column name="FK_idUsuario_idUsuario"/> 
+						</many-to-one>
+											 					
+			
+		  			
+						<bag name="Pedido" >
+							<key>
+							
+								
+								<column name="FK_idDireccion_idDireccion"/>
+					      	</key>
+							<one-to-many class="Roll_n_RunGenNHibernate.EN.Roll_n_Run.PedidoEN"/>
+					    </bag>
+					
+					
+					
+					
+					
+					
+					
+					
+		
+		 </class>	
+		  
+		  <query name="DireccionENReadAllHQL">from DireccionEN</query>
+		  <query name="DireccionENgetDireccionesUsuarioHQL"><![CDATA[select dir FROM DireccionEN as dir inner join dir.Usuario as usu where usu.Id = :p_usuario]]></query>
+		</hibernate-mapping>
+	

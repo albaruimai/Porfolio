@@ -1,0 +1,560 @@
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\hibernate.cfg.xml
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\RollNRunWeb.dll.config
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\RollNRunWeb.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\RollNRunWeb.pdb
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\csc.exe
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\csc.exe.config
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\csc.rsp
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\csi.exe
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\csi.exe.config
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\csi.rsp
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.Managed.Core.targets
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.AppContext.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Collections.Immutable.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Console.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Globalization.Calendars.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.IO.Compression.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.IO.FileSystem.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Net.Http.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Net.Sockets.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Reflection.Metadata.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.ValueTuple.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Xml.XmlDocument.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Xml.XPath.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\vbc.exe
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\vbc.exe.config
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\vbc.rsp
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\VBCSCompiler.exe
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\roslyn\VBCSCompiler.exe.config
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\Antlr3.Runtime.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\Castle.DynamicProxy2.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\EntityFramework.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\EntityFramework.SqlServer.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\Iesi.Collections.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\jose-jwt.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\LinFu.DynamicProxy.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\log4net.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.AspNet.Identity.Core.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.Cookies.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.Facebook.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.Google.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.OAuth.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.Twitter.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Web.Infrastructure.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\Newtonsoft.Json.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\NHibernate.ByteCode.Castle.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\NHibernate.ByteCode.LinFu.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\NHibernate.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\nunit.core.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\nunit.framework.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\Owin.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\Roll_n_RunGenNHibernate.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\System.Web.Helpers.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\System.Web.Mvc.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\System.Web.Optimization.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\System.Web.Razor.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\System.Web.WebPages.Deployment.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\System.Web.WebPages.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\System.Web.WebPages.Razor.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\WebGrease.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\Roll_n_RunGenNHibernate.pdb
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\Roll_n_RunGenNHibernate.dll.config
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\System.Web.Helpers.xml
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\System.Web.Mvc.xml
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\System.Web.Optimization.xml
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\System.Web.Razor.xml
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\System.Web.WebPages.xml
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\System.Web.WebPages.Deployment.xml
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\System.Web.WebPages.Razor.xml
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\Newtonsoft.Json.xml
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\EntityFramework.xml
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\EntityFramework.SqlServer.xml
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.AspNet.Identity.Core.xml
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.xml
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.xml
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.Facebook.xml
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.Cookies.xml
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.Google.xml
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.Twitter.xml
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.OAuth.xml
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\es\System.Web.Helpers.resources.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\es\System.Web.Mvc.resources.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\es\System.Web.Optimization.resources.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\es\System.Web.Razor.resources.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\es\System.Web.WebPages.resources.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\es\EntityFramework.resources.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\es\EntityFramework.SqlServer.resources.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\es\Microsoft.Owin.resources.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\es\Microsoft.Owin.Security.resources.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\es\Microsoft.Owin.Security.Google.resources.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\obj\Debug\RollNRunWeb.csproj.AssemblyReference.cache
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\obj\Debug\RollNRunWeb.csproj.CoreCompileInputs.cache
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\obj\Debug\RollNRunWeb.csproj.CopyComplete
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\obj\Debug\RollNRunWeb.dll
+F:\OOH4RIA\DSM2021\Roll_n_RunGen\RollNRunWeb\obj\Debug\RollNRunWeb.pdb
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\hibernate.cfg.xml
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\RollNRunWeb.dll.config
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\RollNRunWeb.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\RollNRunWeb.pdb
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\csc.exe
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\csc.exe.config
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\csc.rsp
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\csi.exe
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\csi.exe.config
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\csi.rsp
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Console.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\vbc.exe
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\vbc.exe.config
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\vbc.rsp
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Antlr3.Runtime.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Castle.DynamicProxy2.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\EntityFramework.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Iesi.Collections.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\jose-jwt.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\LinFu.DynamicProxy.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\log4net.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Newtonsoft.Json.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\NHibernate.ByteCode.Castle.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\NHibernate.ByteCode.LinFu.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\NHibernate.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\nunit.core.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\nunit.framework.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Owin.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Roll_n_RunGenNHibernate.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\System.Web.Helpers.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\System.Web.Mvc.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\System.Web.Optimization.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\System.Web.Razor.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\System.Web.WebPages.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\WebGrease.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Roll_n_RunGenNHibernate.pdb
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Roll_n_RunGenNHibernate.dll.config
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\System.Web.Helpers.xml
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\System.Web.Mvc.xml
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\System.Web.Optimization.xml
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\System.Web.Razor.xml
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\System.Web.WebPages.xml
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Newtonsoft.Json.xml
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\EntityFramework.xml
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.xml
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\System.Web.Razor.resources.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\EntityFramework.resources.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\obj\Debug\RollNRunWeb.csproj.AssemblyReference.cache
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\obj\Debug\RollNRunWeb.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\obj\Debug\RollNRunWeb.csproj.CopyComplete
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\obj\Debug\RollNRunWeb.dll
+C:\Users\Portatil\Desktop\Cosas de DSM\RollNRun_git\RollNRun\Roll_n_RunGen\RollNRunWeb\obj\Debug\RollNRunWeb.pdb
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\hibernate.cfg.xml
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\RollNRunWeb.dll.config
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\RollNRunWeb.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\RollNRunWeb.pdb
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\csc.exe
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\csc.exe.config
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\csc.rsp
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\csi.exe
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\csi.exe.config
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\csi.rsp
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.Managed.Core.targets
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.AppContext.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Collections.Immutable.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Console.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Globalization.Calendars.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.IO.Compression.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.IO.FileSystem.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Net.Http.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Net.Sockets.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Reflection.Metadata.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.ValueTuple.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Xml.XmlDocument.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Xml.XPath.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\vbc.exe
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\vbc.exe.config
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\vbc.rsp
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\VBCSCompiler.exe
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\VBCSCompiler.exe.config
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Antlr3.Runtime.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Castle.DynamicProxy2.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\EntityFramework.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\EntityFramework.SqlServer.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Iesi.Collections.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\jose-jwt.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\LinFu.DynamicProxy.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\log4net.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.AspNet.Identity.Core.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.Cookies.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.Facebook.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.Google.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.OAuth.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.Twitter.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Web.Infrastructure.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Newtonsoft.Json.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\NHibernate.ByteCode.Castle.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\NHibernate.ByteCode.LinFu.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\NHibernate.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\nunit.core.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\nunit.framework.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Owin.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Roll_n_RunGenNHibernate.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\System.Web.Helpers.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\System.Web.Mvc.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\System.Web.Optimization.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\System.Web.Razor.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\System.Web.WebPages.Deployment.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\System.Web.WebPages.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\System.Web.WebPages.Razor.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\WebGrease.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Roll_n_RunGenNHibernate.pdb
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Roll_n_RunGenNHibernate.dll.config
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\System.Web.Helpers.xml
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\System.Web.Mvc.xml
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\System.Web.Optimization.xml
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\System.Web.Razor.xml
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\System.Web.WebPages.xml
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\System.Web.WebPages.Deployment.xml
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\System.Web.WebPages.Razor.xml
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Newtonsoft.Json.xml
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\EntityFramework.xml
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\EntityFramework.SqlServer.xml
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.AspNet.Identity.Core.xml
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.xml
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.xml
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.Facebook.xml
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.Cookies.xml
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.Google.xml
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.Twitter.xml
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.OAuth.xml
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\System.Web.Helpers.resources.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\System.Web.Mvc.resources.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\System.Web.Optimization.resources.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\System.Web.Razor.resources.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\System.Web.WebPages.resources.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\EntityFramework.resources.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\EntityFramework.SqlServer.resources.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\Microsoft.Owin.resources.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\Microsoft.Owin.Security.resources.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\Microsoft.Owin.Security.Google.resources.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\obj\Debug\RollNRunWeb.csproj.AssemblyReference.cache
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\obj\Debug\RollNRunWeb.csproj.CoreCompileInputs.cache
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\obj\Debug\RollNRunWeb.csproj.CopyComplete
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\obj\Debug\RollNRunWeb.dll
+F:\YandexDisk\Universidad\Multimedia 3º\1er Cuatri\DSM\DSM2022-23\RollNRun\Roll_n_RunGen\RollNRunWeb\obj\Debug\RollNRunWeb.pdb
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\hibernate.cfg.xml
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\RollNRunWeb.dll.config
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\RollNRunWeb.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\RollNRunWeb.pdb
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\csc.exe
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\csc.exe.config
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\csc.rsp
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\csi.exe
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\csi.exe.config
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\csi.rsp
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.AppContext.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Console.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\vbc.exe
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\vbc.exe.config
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\vbc.rsp
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Antlr3.Runtime.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Castle.DynamicProxy2.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\EntityFramework.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Iesi.Collections.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\jose-jwt.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\LinFu.DynamicProxy.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\log4net.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Newtonsoft.Json.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\NHibernate.ByteCode.Castle.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\NHibernate.ByteCode.LinFu.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\NHibernate.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\nunit.core.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\nunit.framework.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Owin.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Roll_n_RunGenNHibernate.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\System.Web.Helpers.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\System.Web.Mvc.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\System.Web.Optimization.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\System.Web.Razor.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\System.Web.WebPages.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\WebGrease.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Roll_n_RunGenNHibernate.pdb
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Roll_n_RunGenNHibernate.dll.config
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\System.Web.Helpers.xml
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\System.Web.Mvc.xml
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\System.Web.Optimization.xml
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\System.Web.Razor.xml
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\System.Web.WebPages.xml
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Newtonsoft.Json.xml
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\EntityFramework.xml
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.xml
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\System.Web.Helpers.resources.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\System.Web.Razor.resources.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\System.Web.WebPages.resources.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\EntityFramework.resources.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\Microsoft.Owin.resources.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\obj\Debug\RollNRunWeb.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\obj\Debug\RollNRunWeb.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\obj\Debug\RollNRunWeb.csproj.CopyComplete
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\obj\Debug\RollNRunWeb.dll
+C:\Users\MSI\Desktop\Cosas de Estudiar\DSM\Cosas\GitHub_Movidas\RollNRun\Roll_n_RunGen\RollNRunWeb\obj\Debug\RollNRunWeb.pdb

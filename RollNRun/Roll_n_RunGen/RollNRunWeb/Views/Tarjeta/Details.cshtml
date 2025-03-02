@@ -1,0 +1,50 @@
+﻿@model RollNRunWeb.Models.TarjetaViewModel
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Detalles</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.titular)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.titular)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.numero)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.numero)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.cvv)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.cvv)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.fechaCad)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.fechaCad)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "Edit", new { id = Model.id }) |
+    @Html.ActionLink("Volver", "Index")
+</p>

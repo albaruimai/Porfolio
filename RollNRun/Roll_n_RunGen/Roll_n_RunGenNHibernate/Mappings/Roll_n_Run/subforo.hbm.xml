@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+		                   assembly="Roll_n_RunGenNHibernate"
+		                   namespace="Roll_n_RunGenNHibernate.EN.Roll_n_Run">
+		    
+		    
+			
+				<class name="SubforoEN" table="Subforo"> 
+				  	
+						<id name="Id" column="idSubforo" type="integer"> 
+							<generator class="hilo"/>
+						</id>
+			
+					
+					<property name="Titulo" type="string"> 
+						<column name="titulo"  not-null="true"/>
+					</property>
+					<property name="Fecha" type="date"> 
+						<column name="fecha"  not-null="true"/>
+					</property>
+					<property name="Descripcion" type="string"> 
+						<column name="descripcion"  not-null="true"/>
+					</property>
+					<property name="NumEntradas" type="integer"> 
+						<column name="numEntradas"  not-null="true"/>
+					</property>
+			
+			
+			
+		  			
+						<many-to-one name="Autor" class="Roll_n_RunGenNHibernate.EN.Roll_n_Run.UsuarioEN" >	
+								<column name="FK_idUsuario_idUsuario"/> 
+						</many-to-one>
+											 					
+			
+			
+			
+			
+		  			
+						<bag name="Entrada" >
+							<key>
+							
+								
+								<column name="FK_idSubforo_idSubforo"/>
+					      	</key>
+							<one-to-many class="Roll_n_RunGenNHibernate.EN.Roll_n_Run.EntradaEN"/>
+					    </bag>
+					
+			
+			
+		  			
+						<bag name="Usuarios" table="[subforo_0_usuario]"  >
+							<key>
+								
+									<column name="FK_idSubforo_idSubforo_0"/> 
+							</key>
+      						<many-to-many class="Roll_n_RunGenNHibernate.EN.Roll_n_Run.UsuarioEN">
+									<column name="FK_idUsuario_idUsuario"/> 
+      						</many-to-many>
+    					</bag>
+					
+					
+					
+					
+					
+					
+					
+					
+		
+		 </class>	
+		  
+		  <query name="SubforoENReadAllHQL">from SubforoEN</query>
+		  <query name="SubforoENgetSubforosUsuarioHQL"><![CDATA[select sfor FROM SubforoEN as sfor inner join sfor.Autor as usu where usu.Id = :p_autor]]></query>
+		  <query name="SubforoENgetSeguidosUsuarioHQL"><![CDATA[select sfor FROM SubforoEN as sfor inner join sfor.Usuarios as usu where usu.Id = :p_usuarios]]></query>
+		  <query name="SubforoENbuscarTituloHQL"><![CDATA[select sfor FROM SubforoEN as sfor where sfor.Titulo like '%' + :p_titulo + '%' ]]></query>
+		  <query name="SubforoENgetUsuariosSubforoHQL"><![CDATA[select usu FROM UsuarioEN as usu inner join usu.Subforos as sfor where sfor.Id = :p_id]]></query>
+		</hibernate-mapping>
+	

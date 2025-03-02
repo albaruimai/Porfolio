@@ -1,0 +1,11 @@
+﻿@model RollNRunWeb.Models.TarjetaViewModel
+
+@using (Html.BeginForm())
+{
+    <div class="form-group">
+        @Html.LabelFor(model => model.id, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DropDownListFor(model => model.id, ViewData["tarjetaId"] as SelectList, "Selecciona un articulo")
+        </div>
+    </div>
+}

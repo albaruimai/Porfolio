@@ -1,0 +1,25 @@
+﻿@model IEnumerable<RollNRunWeb.Models.EntradaViewModel>
+
+@{
+    ViewBag.Title = "Comentarios";
+}
+
+<h2>Comentarios</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+
+        @foreach (var item in Model)
+        {
+            <dt>
+                @Html.DisplayFor(modelItem => item.Usuario)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(modelItem => item.Texto)
+            </dd>
+        }
+
+    </dl>
+</div>

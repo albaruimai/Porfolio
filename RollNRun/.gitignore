@@ -1,0 +1,7 @@
+
+Roll_n_Run/.project
+.metadata/
+Roll_n_Run/generator.log
+Roll_n_RunGen/Roll_n_RunGenNHibernate/bin/Debug
+Roll_n_RunGen/InitializeDB/obj/
+Roll_n_RunGen/.vs

@@ -1,0 +1,21 @@
+﻿@model RollNRunWeb.Models.PedidoViewModel
+
+@{
+    ViewBag.Title = "Carrito";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Cesta</h2>
+
+<table class="table">
+
+    @{Html.RenderAction("LineasCarrito", "Pedido", new { id = Model.id }); }
+
+    <tr>
+        <td>
+            <a href='@string.Format("https://localhost:44368/Pedido/Tramite/{0}", Model.id)'>
+                <b>TRAMITAR PEDIDO</b>
+            </a>
+        </td>
+    </tr>
+</table>

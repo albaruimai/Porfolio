@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+		                   assembly="Roll_n_RunGenNHibernate"
+		                   namespace="Roll_n_RunGenNHibernate.EN.Roll_n_Run">
+		    
+		    
+			
+				<class name="PreguntaFrecuenteEN" table="PreguntaFrecuente"> 
+				  	
+						<id name="Id" column="idPreguntaFrecuente" type="integer"> 
+							<generator class="hilo"/>
+						</id>
+			
+					
+					<property name="Pregunta" type="string"> 
+						<column name="pregunta"  not-null="true"/>
+					</property>
+					<property name="Respuesta" type="string"> 
+						<column name="respuesta"  not-null="true"/>
+					</property>
+			
+			
+			
+			
+					
+					
+					
+		
+		 </class>	
+		  
+		  <query name="PreguntaFrecuenteENReadAllHQL">from PreguntaFrecuenteEN</query>
+		</hibernate-mapping>
+	

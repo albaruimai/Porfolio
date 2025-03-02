@@ -1,0 +1,24 @@
+﻿@model RollNRunWeb.Models.SubforoViewModel
+
+@{
+    ViewBag.Title = "DejarSeguir";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div>
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        <br />
+        <br />
+        <br />
+        <br />
+        <h4>¿Estás seguro?</h4>
+        <div class="form-actions no-color">
+            <input type="submit" value="Dejar de seguir" class="btn btn-default" />
+        </div>
+    }
+</div>
+
+<div>
+    @Html.ActionLink("Volver al foro", "Indice")
+</div>

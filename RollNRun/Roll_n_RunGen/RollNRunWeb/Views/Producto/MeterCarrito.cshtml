@@ -1,0 +1,12 @@
+﻿
+@model RollNRunWeb.Models.ProductoViewModel
+
+@{
+    ViewBag.Title = "MeterCarrito";
+}
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <input type="submit" value="Añadir a la cesta" class="btn btn-default" />
+}

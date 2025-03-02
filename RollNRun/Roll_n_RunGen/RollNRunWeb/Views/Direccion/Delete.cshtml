@@ -1,0 +1,56 @@
+﻿@model RollNRunWeb.Models.DireccionViewModel
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Borrar dirección</h2>
+
+<h3>¿Estás seguro de querer borrar esto?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Provincia)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Provincia)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Localidad)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Localidad)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CP)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CP)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Calle)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Calle)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Volver", "Index")
+        </div>
+    }
+</div>

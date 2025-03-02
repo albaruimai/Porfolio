@@ -1,0 +1,48 @@
+﻿@model IEnumerable<RollNRunWeb.Models.LineaPedidoViewModel>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.productoNombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.cantidad)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.precio)
+        </th>
+        <th></th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.productoNombre)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.cantidad)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.precio)
+    </td>
+    <td>
+        <a href='@string.Format("https://localhost:44368/Producto/Details/{0}", item.productoId)'>
+            Detalles del Producto
+        </a>
+    </td>
+    <td>
+        <a href='@string.Format("https://localhost:44368/LineaPedido/Edit/{0}", item.id)'>
+            Modificar
+        </a>
+    </td>
+    <td>
+        <a href='@string.Format("https://localhost:44368/LineaPedido/Delete/{0}", item.id)'>
+            Borrar
+        </a>
+    </td>
+</tr>
+}
+
+</table>

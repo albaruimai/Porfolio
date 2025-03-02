@@ -1,0 +1,58 @@
+﻿@model IEnumerable<RollNRunWeb.Models.DireccionViewModel>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Mis Direcciones</h2>
+
+<button type="button" style="margin-left: 15px">@Html.ActionLink("Añadir dirección", "Create", "Direccion")</button>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Provincia)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Localidad)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CP)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Calle)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Provincia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Localidad)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CP)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Calle)
+            </td>
+            <td>
+                <button type="button" style="margin-left: 15px">
+                    @Html.ActionLink("Editar dirección", "Edit", new { id = item.id })
+                </button> |
+                <button type="button" style="margin-left: 15px">
+                    @Html.ActionLink("Ver dirección", "Details", new { id = item.id })
+                </button> |
+                <button type="button" style="margin-left: 15px">
+                    @Html.ActionLink("Borrar dirección", "Delete", new { id = item.id })
+                </button>
+</td>
+        </tr>
+    }
+
+</table>

@@ -1,0 +1,25 @@
+﻿@model IEnumerable<RollNRunWeb.Models.ValoracionViewModel>
+
+@{
+    ViewBag.Title = "Valoraciones";
+}
+
+<h2><u>Valoraciones</u></h2>
+<br>
+
+@foreach (var item in Model)
+{
+    <h5>
+        Valoración: @Html.DisplayFor(modelItem => item.valor)
+    </h5>
+    <hr>
+
+    <h5>
+        @Html.DisplayFor(modelItem => item.comentario)
+    </h5>
+    <hr>
+    <br>
+}
+
+<br />
+<br />

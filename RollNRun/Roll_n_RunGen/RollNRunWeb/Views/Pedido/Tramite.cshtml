@@ -1,0 +1,52 @@
+﻿@model RollNRunWeb.Models.PedidoViewModel
+
+@{
+    ViewBag.Title = "Tramite";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Trámite</h2>
+
+
+
+<br />
+@{Html.RenderAction("LineasCarrito", "Pedido", new { id = Model.id }); }
+
+<br />
+
+@using (Html.BeginForm())
+{
+
+
+    <br />
+    <div class="form-group">
+        @Html.LabelFor(model => model.direccion, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DropDownListFor(model => model.direccion, (IEnumerable<SelectListItem>)ViewData["direccionId"], "Selecciona una dirección")
+        </div>
+    </div>
+
+
+    <br />
+    <div class="form-group">
+        @Html.LabelFor(model => model.tarjeta, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DropDownListFor(model => model.tarjeta, (IEnumerable<SelectListItem>)ViewData["tarjetaId"], "Selecciona una tarjeta")
+        </div>
+    </div>
+
+    <br />
+
+
+
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Pedir y pagar" class="btn btn-default" />
+        </div>
+    </div>
+
+
+}
+
+

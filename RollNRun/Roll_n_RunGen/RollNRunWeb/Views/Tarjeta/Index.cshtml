@@ -1,0 +1,66 @@
+﻿@model IEnumerable<RollNRunWeb.Models.TarjetaViewModel>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Mis Tarjetas</h2>
+
+<button type="button" style="margin-left: 15px">@Html.ActionLink("Añadir tarjeta", "Create", "Tarjeta")</button>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.titular)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.numero)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.cvv)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.fechaCad)
+        </th>
+        <th></th>
+    </tr>
+
+
+
+    <div class="container-fluid">
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-xs-12 col-md-8 col-lg-6">
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.titular)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.numero)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.cvv)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.fechaCad)
+                    </td>
+                    <td>
+
+                        <button type="button" style="margin-left: 15px">
+                            @Html.ActionLink("Editar tarjeta", "Edit", new { id = item.id })
+                        </button> |
+                        <button type="button" style="margin-left: 15px">
+                            @Html.ActionLink("Ver tarjeta", "Details", new { id = item.id })
+                        </button> |
+                        <button type="button" style="margin-left: 15px">
+                            @Html.ActionLink("Borrar tarjeta", "Delete", new { id = item.id })
+                        </button>
+                    </td>
+                </tr>
+                </div>
+            }
+        </div>
+    </div>
+
+        </table>

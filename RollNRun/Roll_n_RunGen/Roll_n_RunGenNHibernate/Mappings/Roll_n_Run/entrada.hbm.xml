@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+		                   assembly="Roll_n_RunGenNHibernate"
+		                   namespace="Roll_n_RunGenNHibernate.EN.Roll_n_Run">
+		    
+		    
+			
+				<class name="EntradaEN" table="Entrada"> 
+				  	
+						<id name="Id" column="idEntrada" type="integer"> 
+							<generator class="hilo"/>
+						</id>
+			
+					
+					<property name="Texto" type="string"> 
+						<column name="texto"  not-null="true"/>
+					</property>
+			
+			
+			
+		  			
+						<many-to-one name="Subforo" class="Roll_n_RunGenNHibernate.EN.Roll_n_Run.SubforoEN" >	
+								<column name="FK_idSubforo_idSubforo"/> 
+						</many-to-one>
+											 					
+			
+		  			
+						<many-to-one name="Usuario" class="Roll_n_RunGenNHibernate.EN.Roll_n_Run.UsuarioEN" >	
+								<column name="FK_idUsuario_idUsuario"/> 
+						</many-to-one>
+											 					
+			
+			
+		  			
+						<many-to-one name="Producto" class="Roll_n_RunGenNHibernate.EN.Roll_n_Run.ProductoEN" >	
+								<column name="FK_idProducto_idProducto"/> 
+						</many-to-one>
+											 					
+					
+					
+					
+					
+					
+		
+		 </class>	
+		  
+		  <query name="EntradaENReadAllHQL">from EntradaEN</query>
+		  <query name="EntradaENgetEntradasSubforoHQL"><![CDATA[select ent FROM EntradaEN as ent inner join ent.Subforo as subf where subf.Id = :p_subforo]]></query>
+		  <query name="EntradaENgetEntradasUsuarioHQL"><![CDATA[select ent FROM EntradaEN as ent inner join ent.Usuario as usu where usu.Id = :p_usu]]></query>
+		</hibernate-mapping>
+	

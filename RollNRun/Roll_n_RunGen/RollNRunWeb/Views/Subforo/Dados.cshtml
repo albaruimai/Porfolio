@@ -1,0 +1,55 @@
+﻿
+@{
+    ViewBag.Title = "Dados";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Tirar dados</h2>
+
+        <p id="resDados" style="
+            text-align: center;
+            background-color: orange;
+            height: 100px;
+            width: 100px;
+            padding: 50px;
+            margin: 50px auto;
+            border: 1px solid gray;
+            border-radius: 10px;
+            font-size:80px;
+        ">
+
+        </p>
+        <button id="tirarDados" style="
+            text-align: center;
+            background-color: orange;
+            border-radius: 6px;
+            border: none;
+            color: black;
+            padding: 10px;
+            text-transform: uppercase;
+            width: 200px;
+            cursor: pointer;
+        ">
+        Tirar</button>
+
+        <script>
+            var dado = {
+                sides: 6,
+                roll: function () {
+                    var random = Math.floor(Math.random() * this.sides) + 1;
+                    return random;
+                }
+            }
+
+            function printDado(number) {
+                var resDados = document.getElementById('resDados');
+                resDados.innerHTML = number;
+            }
+
+            var tirarDados = document.getElementById('tirarDados');
+
+            tirarDados.onclick = function () {
+                var result = dado.roll();
+                printNumber(result);
+            };
+        </script>
